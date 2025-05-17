@@ -9060,3 +9060,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17May2025 20:47:25.532] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/SeFueLuz/servidor_minecraft/./config/infernalmobs.cfg
 [17May2025 20:47:27.110] [Server thread/INFO] [dev.corgitaco.enhancedcelestials.EnhancedCelestials/]: Possible lunar events for dimension "minecraft:overworld" are [enhancedcelestials:super_blue_moon, enhancedcelestials:super_blood_moon, enhancedcelestials:blood_moon, enhancedcelestials:super_moon, enhancedcelestials:harvest_moon, enhancedcelestials:super_harvest_moon, enhancedcelestials:blue_moon].
 [17May2025 20:47:28.629] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at 1375 ~ 672 after 31 tries
+[17May2025 21:00:40.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kazuruki[/10.147.18.228:49506] logged in with entity id 914 at (191.5, 64.0, -54.5)
+[17May2025 21:00:40.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki joined the game
+[17May2025 21:00:40.609] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Kazuruki
+[17May2025 21:00:40.626] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Kazuruki'
+[17May2025 21:00:40.629] [Server thread/INFO] [ToolLeveling+/]: Loaded ForgeServerNetworkHelper for service ServerNetworkHelper
+[17May2025 21:00:40.630] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Kazuruki'
+[17May2025 21:00:40.686] [Server thread/INFO] [Jade/]: Syncing config to Kazuruki (855544bf-53c4-314e-898b-72dc5425c191)
+[17May2025 21:00:42.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Recycler]
+[17May2025 21:00:44.231] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Kazuruki
+[17May2025 21:01:00.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Chicken
+[17May2025 21:01:00.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Your First Grave]
+[17May2025 21:01:00.435] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 21:02:21.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [Here They Come]
+[17May2025 21:04:13.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Dread Hound
+[17May2025 21:04:13.553] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 21:04:20.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Knowledge of Death]
+[17May2025 21:04:20.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [Chain Death]
+[17May2025 21:04:20.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Door Knight
+[17May2025 21:04:20.455] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 21:06:24.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Graniter82a[/10.147.18.162:59918] logged in with entity id 2025 at (189.5, 73.0, -47.5)
+[17May2025 21:06:24.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a joined the game
+[17May2025 21:06:24.156] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Graniter82a
+[17May2025 21:06:24.158] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Graniter82a'
+[17May2025 21:06:24.159] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Graniter82a'
+[17May2025 21:06:24.171] [Server thread/INFO] [Jade/]: Syncing config to Graniter82a (eeac426b-8722-3b1d-9788-3952b68c6b26)
+[17May2025 21:06:25.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Recycler]
+[17May2025 21:06:27.018] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Graniter82a
+[17May2025 21:07:07.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nico[/10.147.18.62:51732] logged in with entity id 2215 at (199.5, 69.0, -45.5)
+[17May2025 21:07:07.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico joined the game
+[17May2025 21:07:07.777] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Nico
+[17May2025 21:07:07.778] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Nico'
+[17May2025 21:07:07.778] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Nico'
+[17May2025 21:07:07.780] [Server thread/INFO] [Jade/]: Syncing config to Nico (e3ee33e7-3331-3c92-83e6-cfee59005976)
+[17May2025 21:07:08.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Recycler]
+[17May2025 21:07:11.355] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nico
