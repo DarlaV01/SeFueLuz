@@ -306,6 +306,7 @@
       "minecraft:dark_forest": "2025-05-17 21:42:28 +0000",
       "minecraft:river": "2025-05-17 21:34:24 +0000",
       "minecraft:forest": "2025-05-17 21:06:25 +0000",
+      "minecraft:lush_caves": "2025-05-17 21:50:53 +0000",
       "minecraft:plains": "2025-05-17 21:08:28 +0000"
     },
     "done": false
@@ -389,6 +390,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-05-17 21:50:07 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_forest": {
     "criteria": {
       "raspberry_seed": "2025-05-17 21:39:03 +0000"
@@ -419,6 +426,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 21:45:07 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:food_fight": {
     "criteria": {
       "food_fight_0": "2025-05-17 21:36:42 +0000"
@@ -434,7 +447,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "orchard": "2025-05-17 21:34:59 +0000",
-      "grassland": "2025-05-17 21:42:31 +0000"
+      "grassland": "2025-05-17 21:42:31 +0000",
+      "glowing_grotto": "2025-05-17 21:51:28 +0000"
     },
     "done": false
   },
@@ -465,6 +479,30 @@
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-05-17 21:36:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 21:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-05-17 21:50:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-17 21:50:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 21:44:49 +0000"
     },
     "done": true
   },

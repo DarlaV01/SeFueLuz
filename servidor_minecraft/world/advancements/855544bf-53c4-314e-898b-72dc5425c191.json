@@ -307,6 +307,7 @@
       "minecraft:dark_forest": "2025-05-17 21:39:05 +0000",
       "minecraft:river": "2025-05-17 21:13:07 +0000",
       "minecraft:forest": "2025-05-17 21:00:42 +0000",
+      "minecraft:lush_caves": "2025-05-17 21:51:00 +0000",
       "minecraft:ocean": "2025-05-17 21:35:10 +0000",
       "minecraft:plains": "2025-05-17 21:02:23 +0000"
     },
@@ -383,7 +384,33 @@
       "orchard": "2025-05-17 21:15:03 +0000",
       "lavender_forest": "2025-05-17 21:15:19 +0000",
       "dune_beach": "2025-05-17 21:15:20 +0000",
-      "grassland": "2025-05-17 21:37:26 +0000"
+      "grassland": "2025-05-17 21:37:26 +0000",
+      "glowing_grotto": "2025-05-17 21:51:10 +0000"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-17 21:52:20 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-05-17 21:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-05-17 21:52:21 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-05-17 21:52:12 +0000",
+      "opened_chest": "2025-05-17 21:52:20 +0000"
     },
     "done": false
   },
@@ -405,6 +432,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-17 21:52:12 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-05-17 21:36:29 +0000"
@@ -413,7 +446,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "chicken": "2025-05-17 21:32:46 +0000"
+      "chicken": "2025-05-17 21:32:46 +0000",
+      "glow_berries": "2025-05-17 21:52:05 +0000"
     },
     "done": false
   },

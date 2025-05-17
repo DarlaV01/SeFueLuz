@@ -306,6 +306,7 @@
       "minecraft:dark_forest": "2025-05-17 21:43:15 +0000",
       "minecraft:river": "2025-05-17 21:13:29 +0000",
       "minecraft:forest": "2025-05-17 21:07:08 +0000",
+      "minecraft:lush_caves": "2025-05-17 21:50:49 +0000",
       "minecraft:plains": "2025-05-17 21:08:00 +0000"
     },
     "done": false
@@ -376,6 +377,37 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-17 21:52:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-05-17 21:53:04 +0000",
+      "opened_chest": "2025-05-17 21:52:44 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:recipes/diamond_shard": {
+    "criteria": {
+      "requirement_1": "2025-05-17 21:52:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-17 21:52:53 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-17 21:53:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "orchard": "2025-05-17 21:41:59 +0000"
@@ -387,13 +419,20 @@
       "orchard": "2025-05-17 21:41:59 +0000",
       "lavender_forest": "2025-05-17 21:43:03 +0000",
       "dune_beach": "2025-05-17 21:43:05 +0000",
-      "grassland": "2025-05-17 21:43:13 +0000"
+      "grassland": "2025-05-17 21:43:13 +0000",
+      "glowing_grotto": "2025-05-17 21:50:55 +0000"
     },
     "done": false
   },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-05-17 21:41:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 21:46:53 +0000"
     },
     "done": true
   },
@@ -406,6 +445,18 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-17 21:41:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 21:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-17 21:52:47 +0000"
     },
     "done": true
   },
