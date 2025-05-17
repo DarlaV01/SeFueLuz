@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "855544bf-53c4-314e-898b-72dc5425c191",
+    "name": "Kazuruki",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

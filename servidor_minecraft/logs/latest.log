@@ -9095,3 +9095,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17May2025 21:07:07.780] [Server thread/INFO] [Jade/]: Syncing config to Nico (e3ee33e7-3331-3c92-83e6-cfee59005976)
 [17May2025 21:07:08.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Recycler]
 [17May2025 21:07:11.355] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Nico
+[17May2025 21:08:06.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Bloody Gadfly
+[17May2025 21:08:06.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Your First Grave]
+[17May2025 21:08:06.062] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[17May2025 21:08:11.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has reached the goal [Here They Come]
+[17May2025 21:08:37.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Acquire Hardware]
+[17May2025 21:08:45.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Bloody Gadfly
+[17May2025 21:08:45.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Your First Grave]
+[17May2025 21:08:45.550] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[17May2025 21:08:55.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has reached the goal [Here They Come]
+[17May2025 21:08:56.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Kazuruki a server operator
+[17May2025 21:08:58.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Door Knight
+[17May2025 21:08:58.151] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 21:08:59.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Door Knight
+[17May2025 21:08:59.648] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[17May2025 21:09:04.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: The difficulty has been set to Peaceful]
+[17May2025 21:10:22.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a lost connection: Disconnected
+[17May2025 21:10:22.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a left the game
+[17May2025 21:12:40.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: The difficulty has been set to Hard]
+[17May2025 21:14:14.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Stone Age]
+[17May2025 21:14:26.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Getting an Upgrade]
+[17May2025 21:16:12.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki lost connection: Disconnected
+[17May2025 21:16:12.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki left the game
+[17May2025 21:16:16.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17May2025 21:16:16.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17May2025 21:16:16.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17May2025 21:16:16.462] [Immersive Optimization Worker/INFO] [Immersive Optimization/]: Shutting down Immersive Optimization worker
+[17May2025 21:16:16.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nico lost connection: Disconnected
+[17May2025 21:16:16.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico left the game
+[17May2025 21:16:16.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17May2025 21:16:17.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17May2025 21:16:19.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[17May2025 21:16:19.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17May2025 21:16:19.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17May2025 21:16:19.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17May2025 21:16:19.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[17May2025 21:16:19.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17May2025 21:16:19.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17May2025 21:16:19.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
