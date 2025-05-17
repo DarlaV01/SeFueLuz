@@ -368,9 +368,10 @@
   "corail_recycler:recipes/recycler": {
     "criteria": {
       "requirement_2": "2025-05-17 21:08:37 +0000",
+      "requirement_3": "2025-05-17 22:03:03 +0000",
       "requirement_1": "2025-05-17 21:30:57 +0000"
     },
-    "done": false
+    "done": true
   },
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
@@ -390,27 +391,21 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_ferrous_wroughtnaut": {
+  "minecraft:story/root": {
     "criteria": {
-      "ferrous_wroughtnaut": "2025-05-17 21:50:07 +0000"
+      "crafting_table": "2025-05-17 21:31:18 +0000"
     },
     "done": true
   },
-  "croptopia:gather_forest": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "raspberry_seed": "2025-05-17 21:39:03 +0000"
+      "minecraft:drowned": "2025-05-17 21:34:47 +0000"
     },
     "done": false
   },
-  "minecraft:story/mine_stone": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "get_stone": "2025-05-17 21:39:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-05-17 21:41:06 +0000"
+      "minecraft:drowned": "2025-05-17 21:34:47 +0000"
     },
     "done": true
   },
@@ -426,24 +421,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-17 21:45:07 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:food_fight": {
-    "criteria": {
-      "food_fight_0": "2025-05-17 21:36:42 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_all": {
-    "criteria": {
-      "raspberry_seed": "2025-05-17 21:39:03 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "orchard": "2025-05-17 21:34:59 +0000",
@@ -452,27 +429,9 @@
     },
     "done": false
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:drowned": "2025-05-17 21:34:47 +0000"
-    },
-    "done": false
-  },
-  "croptopia:getseeds": {
-    "criteria": {
-      "has_seeds": "2025-05-17 21:39:03 +0000"
-    },
-    "done": true
-  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-05-17 21:36:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:drowned": "2025-05-17 21:34:47 +0000"
     },
     "done": true
   },
@@ -482,21 +441,45 @@
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
+  "born_in_chaos_v1:food_fight": {
     "criteria": {
-      "coded_trigger": "2025-05-17 21:44:49 +0000"
+      "food_fight_0": "2025-05-17 21:36:42 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "croptopia:gather_forest": {
     "criteria": {
-      "apple": "2025-05-17 21:50:03 +0000"
+      "raspberry_seed": "2025-05-17 21:39:03 +0000"
     },
     "done": false
   },
-  "minecraft:husbandry/root": {
+  "croptopia:gather_all": {
     "criteria": {
-      "consumed_item": "2025-05-17 21:50:03 +0000"
+      "raspberry_seed": "2025-05-17 21:39:03 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-05-17 21:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-17 21:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-17 21:41:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 21:44:49 +0000"
     },
     "done": true
   },
@@ -506,9 +489,53 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "crafting_table": "2025-05-17 21:31:18 +0000"
+      "coded_trigger": "2025-05-17 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-05-17 21:50:03 +0000",
+      "rotten_flesh": "2025-05-17 22:00:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-17 21:50:03 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-05-17 21:50:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-17 22:00:29 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-05-17 22:00:40 +0000",
+      "opened_chest": "2025-05-17 22:00:29 +0000"
+    },
+    "done": false
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-17 22:00:40 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-17 22:00:31 +0000"
     },
     "done": true
   },

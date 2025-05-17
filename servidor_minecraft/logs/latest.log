@@ -4595,3 +4595,77 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [17May2025 21:53:29.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -577.500000, 29.000000, -620.500000]
 [17May2025 21:54:25.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Dread Hound
 [17May2025 21:54:25.914] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[17May2025 21:54:33.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[17May2025 21:54:44.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chik3nBl4ck[/10.147.18.78:58740] logged in with entity id 16262 at (192.5, 68.0, -47.5)
+[17May2025 21:54:44.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck joined the game
+[17May2025 21:54:45.057] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (d24633ce-4dfe-30cc-a241-dd694ac41bc3)
+[17May2025 21:54:45.057] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Chik3nBl4ck
+[17May2025 21:54:45.058] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Chik3nBl4ck'
+[17May2025 21:54:45.058] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Chik3nBl4ck'
+[17May2025 21:54:45.060] [Server thread/INFO] [Jade/]: Syncing config to Chik3nBl4ck (d24633ce-4dfe-30cc-a241-dd694ac41bc3)
+[17May2025 21:54:45.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Recycler]
+[17May2025 21:54:47.243] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Chik3nBl4ck
+[17May2025 21:56:05.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Dire Hound Leader
+[17May2025 21:56:05.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Your First Grave]
+[17May2025 21:56:05.773] [Server thread/INFO] [tombstone/]: The player Chik3nBl4ck has successfully been saved
+[17May2025 21:56:06.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Graniter82a[/10.147.18.162:61763] logged in with entity id 16983 at (-619.8673180306629, 30.0, -658.1197513638552)
+[17May2025 21:56:06.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a joined the game
+[17May2025 21:56:06.313] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (eeac426b-8722-3b1d-9788-3952b68c6b26)
+[17May2025 21:56:06.313] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Graniter82a
+[17May2025 21:56:06.314] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Graniter82a'
+[17May2025 21:56:06.314] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Graniter82a'
+[17May2025 21:56:06.314] [Server thread/INFO] [Jade/]: Syncing config to Graniter82a (eeac426b-8722-3b1d-9788-3952b68c6b26)
+[17May2025 21:56:10.580] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Graniter82a
+[17May2025 21:56:16.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Baby Skeleton
+[17May2025 21:56:16.522] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[17May2025 21:56:22.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Monster Hunter]
+[17May2025 21:56:25.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[17May2025 21:57:21.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Monster Hunter]
+[17May2025 21:57:50.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Stone Age]
+[17May2025 21:58:06.870] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@432141e3[id=<null>,name=Sanity15,properties={},legacy=false] (/10.147.18.83:52204) lost connection: Disconnected
+[17May2025 21:58:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Getting an Upgrade]
+[17May2025 21:58:23.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Spider
+[17May2025 21:58:23.232] [Server thread/INFO] [tombstone/]: The player Chik3nBl4ck has successfully been saved
+[17May2025 21:58:47.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Gave 16 [Torch] to 4]
+[17May2025 22:00:29.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement ['X' Marks the Spot]
+[17May2025 22:00:31.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Amateur Archaeologist]
+[17May2025 22:00:40.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Barrel Booty]
+[17May2025 22:00:41.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was blown up by Creeper
+[17May2025 22:00:41.789] [Server thread/INFO] [tombstone/]: The player Chik3nBl4ck has successfully been saved
+[17May2025 22:00:45.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Kazuruki
+[17May2025 22:00:45.731] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[17May2025 22:00:49.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[17May2025 22:01:00.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Made Kazuruki no longer a server operator]
+[17May2025 22:01:12.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanity15[/10.147.18.83:52455] logged in with entity id 20028 at (-639.6999999880791, 46.0, -672.6100480664983)
+[17May2025 22:01:12.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 joined the game
+[17May2025 22:01:12.860] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (cd33f3f6-85c5-3c3e-a90d-9834c22518b7)
+[17May2025 22:01:12.860] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Sanity15
+[17May2025 22:01:12.861] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Sanity15'
+[17May2025 22:01:12.862] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Sanity15'
+[17May2025 22:01:12.866] [Server thread/INFO] [Jade/]: Syncing config to Sanity15 (cd33f3f6-85c5-3c3e-a90d-9834c22518b7)
+[17May2025 22:01:16.653] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Sanity15
+[17May2025 22:01:22.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kazuruki> aeeae
+[17May2025 22:01:27.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Amateur Archaeologist]
+[17May2025 22:01:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has reached the goal [Here They Come]
+[17May2025 22:01:47.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Kazuruki a server operator
+[17May2025 22:01:54.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made Graniter82a no longer a server operator]
+[17May2025 22:01:56.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[17May2025 22:02:02.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17May2025 22:02:24.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Dread Hound
+[17May2025 22:02:24.829] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[17May2025 22:02:36.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [A Strange Grave Dust]
+[17May2025 22:02:48.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[17May2025 22:03:08.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Zombie
+[17May2025 22:03:08.733] [Server thread/INFO] [tombstone/]: The player Chik3nBl4ck has successfully been saved
+[17May2025 22:03:18.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17May2025 22:03:23.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[17May2025 22:03:45.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[17May2025 22:03:49.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17May2025 22:03:58.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[17May2025 22:04:17.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Swarmer
+[17May2025 22:04:17.274] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 22:04:28.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -605.500000, -10.000000, -690.500000]
+[17May2025 22:04:30.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Decaying Zombie
+[17May2025 22:04:30.703] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 22:04:35.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[17May2025 22:04:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -605.500000, -10.000000, -690.500000]

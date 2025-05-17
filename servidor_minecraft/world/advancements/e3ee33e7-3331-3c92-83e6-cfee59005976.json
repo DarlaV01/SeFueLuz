@@ -430,6 +430,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-17 22:01:27 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-05-17 21:46:53 +0000"
@@ -438,7 +444,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-05-17 21:41:06 +0000"
+      "apple": "2025-05-17 21:41:06 +0000",
+      "rotten_flesh": "2025-05-17 22:01:57 +0000"
     },
     "done": false
   },
