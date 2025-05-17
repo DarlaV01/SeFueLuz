@@ -8,7 +8,7 @@
   "forge:ingots/electrum": "null",
   "forge:ingots/uranium": "null",
   "forge:ingots/iridium": "null",
-  "forge:ingots/lead": "null",
+  "forge:ingots/lead": "palladium:lead_ingot",
   "forge:ingots/tin": "null",
   "forge:ingots/zinc": "create:zinc_ingot",
   "forge:dusts/niter": "null",
