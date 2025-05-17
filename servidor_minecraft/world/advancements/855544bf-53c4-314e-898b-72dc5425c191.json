@@ -302,9 +302,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-05-17 21:39:27 +0000",
       "minecraft:beach": "2025-05-17 21:06:21 +0000",
+      "minecraft:dark_forest": "2025-05-17 21:39:05 +0000",
       "minecraft:river": "2025-05-17 21:13:07 +0000",
       "minecraft:forest": "2025-05-17 21:00:42 +0000",
+      "minecraft:ocean": "2025-05-17 21:35:10 +0000",
       "minecraft:plains": "2025-05-17 21:02:23 +0000"
     },
     "done": false
@@ -379,9 +382,34 @@
     "criteria": {
       "orchard": "2025-05-17 21:15:03 +0000",
       "lavender_forest": "2025-05-17 21:15:19 +0000",
-      "dune_beach": "2025-05-17 21:15:20 +0000"
+      "dune_beach": "2025-05-17 21:15:20 +0000",
+      "grassland": "2025-05-17 21:37:26 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-17 21:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-17 21:42:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-05-17 21:36:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-17 21:36:29 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
@@ -392,6 +420,18 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-17 21:32:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "red_mushroom": "2025-05-17 21:41:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-17 21:37:35 +0000"
     },
     "done": true
   },
