@@ -307,6 +307,7 @@
       "minecraft:river": "2025-05-17 21:34:24 +0000",
       "minecraft:forest": "2025-05-17 21:06:25 +0000",
       "minecraft:lush_caves": "2025-05-17 21:50:53 +0000",
+      "minecraft:ocean": "2025-05-17 22:08:03 +0000",
       "minecraft:plains": "2025-05-17 21:08:28 +0000"
     },
     "done": false
@@ -533,9 +534,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-17 22:09:26 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-05-17 22:00:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2025-05-17 22:05:01 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-05-17 22:06:41 +0000"
     },
     "done": true
   },

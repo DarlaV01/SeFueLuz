@@ -452,6 +452,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-17 22:07:27 +0000",
+      "minecraft:spider": "2025-05-17 22:07:32 +0000",
+      "minecraft:creeper": "2025-05-17 22:11:16 +0000",
       "minecraft:zombie": "2025-05-17 21:56:22 +0000"
     },
     "done": false
@@ -493,6 +496,12 @@
       "red_mushroom": "2025-05-17 21:41:12 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-17 22:07:27 +0000"
+    },
+    "done": true
   },
   "minecraft:story/root": {
     "criteria": {

@@ -4669,3 +4669,95 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [17May2025 22:04:30.703] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
 [17May2025 22:04:35.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
 [17May2025 22:04:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -605.500000, -10.000000, -690.500000]
+[17May2025 22:05:01.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemFrame['Item Frame'/25172, l='ServerLevel[world]', x=-773.97, y=68.50, z=-1551.50]
+[17May2025 22:05:01.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: GlassItemFrame['Glass Item Frame'/25173, l='ServerLevel[world]', x=-774.50, y=65.03, z=-1550.50]
+[17May2025 22:05:01.951] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemFrame['Item Frame'/25174, l='ServerLevel[world]', x=-778.03, y=68.50, z=-1551.50]
+[17May2025 22:05:01.951] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/25175, l='ServerLevel[world]', x=-778.81, y=65.00, z=-1543.34]
+[17May2025 22:05:01.952] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/25176, l='ServerLevel[world]', x=-779.90, y=64.00, z=-1538.62]
+[17May2025 22:05:01.952] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Guard['Guard'/25178, l='ServerLevel[world]', x=-782.56, y=64.00, z=-1541.55]
+[17May2025 22:05:01.953] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Guard['Guard'/25179, l='ServerLevel[world]', x=-782.56, y=64.00, z=-1541.55]
+[17May2025 22:05:01.953] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Guard['Guard'/25180, l='ServerLevel[world]', x=-782.56, y=64.00, z=-1541.55]
+[17May2025 22:05:01.953] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Guard['Guard'/25181, l='ServerLevel[world]', x=-782.56, y=64.00, z=-1541.55]
+[17May2025 22:05:01.954] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Guard['Guard'/25182, l='ServerLevel[world]', x=-782.56, y=64.00, z=-1541.55]
+[17May2025 22:05:01.954] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Guard['Guard'/25183, l='ServerLevel[world]', x=-782.56, y=64.00, z=-1541.55]
+[17May2025 22:05:05.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Decaying Zombie
+[17May2025 22:05:05.370] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[17May2025 22:05:05.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17May2025 22:05:13.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Zombie
+[17May2025 22:05:13.719] [Server thread/INFO] [tombstone/]: The player Chik3nBl4ck has successfully been saved
+[17May2025 22:05:15.571] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest
+[17May2025 22:05:15.792] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Guard['Guard'/25610, l='ServerLevel[world]', x=-795.50, y=67.00, z=-1569.50]
+[17May2025 22:05:17.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[17May2025 22:05:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Ogre
+[17May2025 22:05:35.374] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 22:05:39.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -605.500000, -10.000000, -690.500000]
+[17May2025 22:05:54.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has made the advancement ['X' Marks the Spot]
+[17May2025 22:05:58.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Ogre
+[17May2025 22:05:58.974] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 22:06:02.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -605.500000, -10.000000, -690.500000]
+[17May2025 22:06:22.283] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-880, y=17, z=-606}
+[17May2025 22:06:36.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 was slain by Firelight
+[17May2025 22:06:36.528] [Server thread/INFO] [tombstone/]: The player Sanity15 has successfully been saved
+[17May2025 22:06:41.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Bypassing the Expiration Date]
+[17May2025 22:07:12.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Spider
+[17May2025 22:07:12.578] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 22:07:15.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -605.500000, -10.000000, -690.500000]
+[17May2025 22:07:27.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Ashes 'n Bones]
+[17May2025 22:07:46.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Zombie Girl
+[17May2025 22:07:46.675] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[17May2025 22:07:49.591] [Worker-Main-6/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[17May2025 22:07:55.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Corpse Fly
+[17May2025 22:07:55.828] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 22:07:57.477] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=47, y=-38, z=-435}
+[17May2025 22:07:58.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -605.500000, -10.000000, -690.500000]
+[17May2025 22:08:02.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Acquire Hardware]
+[17May2025 22:08:54.843] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-273, y=-9, z=-17}
+[17May2025 22:09:08.296] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/31290, l='ServerLevel[world]', x=-234.50, y=52.00, z=-267.50]
+[17May2025 22:09:11.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[17May2025 22:09:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck was slain by Siamese Skeletons
+[17May2025 22:09:22.725] [Server thread/INFO] [tombstone/]: The player Chik3nBl4ck has successfully been saved
+[17May2025 22:09:26.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Alex's Caves]
+[17May2025 22:09:27.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17May2025 22:09:48.728] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-422, y=-2, z=-107}
+[17May2025 22:09:48.728] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-423, y=-2, z=-107}
+[17May2025 22:09:57.980] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-477, y=-9, z=-157}
+[17May2025 22:10:13.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Nico]
+[17May2025 22:10:19.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[17May2025 22:10:28.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 was slain by Dread Hound
+[17May2025 22:10:30.098] [Server thread/INFO] [tombstone/]: The player Sanity15 has successfully been saved
+[17May2025 22:10:32.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made g a server operator]
+[17May2025 22:10:38.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 has reached the goal [Here They Come]
+[17May2025 22:10:56.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Suit Up]
+[17May2025 22:11:04.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[17May2025 22:11:06.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[17May2025 22:11:29.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chik3nBl4ck has made the advancement [Take Aim]
+[17May2025 22:11:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Zombie
+[17May2025 22:11:36.125] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 22:11:38.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-576, y=73, z=-582} BlockPos{x=-577, y=71, z=-583}
+[17May2025 22:11:42.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Fallen Chaos Knight
+[17May2025 22:11:42.379] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[17May2025 22:11:45.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -513.500000, -8.000000, -707.500000]
+[17May2025 22:11:47.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was blown up by Creeper
+[17May2025 22:11:47.225] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 22:11:50.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -513.500000, -8.000000, -707.500000]
+[17May2025 22:12:04.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Door Knight
+[17May2025 22:12:04.375] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 22:12:04.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kazuruki> -
+[17May2025 22:12:07.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -513.500000, -8.000000, -707.500000]
+[17May2025 22:12:11.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Graniter82a to Kazuruki]
+[17May2025 22:12:27.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanity15 was slain by Zombie
+[17May2025 22:12:27.320] [Server thread/INFO] [tombstone/]: The player Sanity15 has successfully been saved
+[17May2025 22:12:34.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico hit the ground too hard whilst trying to escape Zombie
+[17May2025 22:12:34.580] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[17May2025 22:12:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[17May2025 22:13:03.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Door Knight
+[17May2025 22:13:03.530] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[17May2025 22:13:06.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[17May2025 22:13:10.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Door Knight
+[17May2025 22:13:10.874] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[17May2025 22:13:11.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Monster Hunter]
+[17May2025 22:13:25.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[17May2025 22:13:27.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Nico]
+[17May2025 22:13:39.533] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=197, y=-36, z=-464}
+[17May2025 22:14:06.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Decrepit Skeleton
+[17May2025 22:14:06.768] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
