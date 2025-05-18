@@ -392,6 +392,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-18 05:59:03 +0000",
       "shrubland": "2025-05-18 05:35:33 +0000",
       "rocky_shrubland": "2025-05-18 05:36:04 +0000",
       "scrubland": "2025-05-18 05:09:31 +0000",
@@ -401,8 +402,10 @@
       "mediterranean_forest": "2025-05-18 05:20:53 +0000",
       "spider_nest": "2025-05-18 04:14:16 +0000",
       "dune_beach": "2025-05-17 21:15:20 +0000",
+      "volcano": "2025-05-18 06:01:54 +0000",
       "grassland": "2025-05-17 21:37:26 +0000",
       "glowing_grotto": "2025-05-17 21:51:10 +0000",
+      "rainforest": "2025-05-18 06:00:50 +0000",
       "crag": "2025-05-18 05:00:24 +0000"
     },
     "done": false
@@ -413,7 +416,8 @@
       "apple": "2025-05-17 21:59:02 +0000",
       "bread": "2025-05-18 05:31:27 +0000",
       "golden_apple": "2025-05-18 04:09:04 +0000",
-      "glow_berries": "2025-05-17 21:52:05 +0000"
+      "glow_berries": "2025-05-17 21:52:05 +0000",
+      "melon_slice": "2025-05-18 06:01:44 +0000"
     },
     "done": false
   },
@@ -833,6 +837,12 @@
   "alienevo:galvan_capsule": {
     "criteria": {
       "find_galvan_capsule": "2025-05-18 05:52:14 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-05-18 05:56:55 +0000"
     },
     "done": true
   },

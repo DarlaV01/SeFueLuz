@@ -413,13 +413,15 @@
       "minecraft:pillager": "2025-05-18 05:18:52 +0000",
       "minecraft:skeleton": "2025-05-18 03:53:27 +0000",
       "minecraft:vindicator": "2025-05-18 05:18:48 +0000",
+      "minecraft:spider": "2025-05-18 06:02:29 +0000",
       "minecraft:evoker": "2025-05-18 05:27:37 +0000",
       "minecraft:slime": "2025-05-18 04:03:27 +0000",
       "minecraft:husk": "2025-05-18 04:42:39 +0000",
       "minecraft:cave_spider": "2025-05-18 03:40:50 +0000",
       "minecraft:vex": "2025-05-18 05:27:35 +0000",
       "minecraft:zombie": "2025-05-18 03:41:00 +0000",
-      "minecraft:drowned": "2025-05-17 21:34:47 +0000"
+      "minecraft:drowned": "2025-05-17 21:34:47 +0000",
+      "minecraft:zombie_villager": "2025-05-18 06:04:19 +0000"
     },
     "done": false
   },
@@ -450,7 +452,9 @@
       "orchard": "2025-05-17 21:34:59 +0000",
       "mediterranean_forest": "2025-05-18 05:20:23 +0000",
       "dune_beach": "2025-05-18 04:39:50 +0000",
+      "volcano": "2025-05-18 06:05:08 +0000",
       "rocky_rainforest": "2025-05-18 05:29:17 +0000",
+      "volcanic_plains": "2025-05-18 06:05:10 +0000",
       "lavender_field": "2025-05-18 04:39:49 +0000",
       "grassland": "2025-05-17 21:42:31 +0000",
       "glowing_grotto": "2025-05-17 21:51:28 +0000",
@@ -838,6 +842,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-05-18 06:05:47 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2025-05-18 05:52:37 +0000"
@@ -861,6 +871,12 @@
   "alienevo:galvan_capsule": {
     "criteria": {
       "find_galvan_capsule": "2025-05-18 05:52:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-18 05:58:41 +0000"
     },
     "done": true
   },
