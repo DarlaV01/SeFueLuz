@@ -4150,3 +4150,13 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [18May2025 21:46:12.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: The difficulty has been set to Peaceful]
 [18May2025 21:46:18.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: The difficulty has been set to Hard]
 [18May2025 21:46:56.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has reached the goal [Bone Crusher]
+[18May2025 21:48:50.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18May2025 21:50:24.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 21:51:53.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18May2025 21:52:13.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has completed the challenge [Centennial]
+[18May2025 21:54:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Local Brewery]
+[18May2025 21:55:17.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15132ms or 302 ticks behind
+[18May2025 21:55:17.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nico moved too quickly! -6.559047585280496,0.0625,7.567858884002135
+[18May2025 21:55:43.354] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element biomesoplenty:lavender_field took 752 ms
+[18May2025 21:55:49.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to -3233.500000, 69.000000, 3165.500000]
+[18May2025 21:55:49.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
