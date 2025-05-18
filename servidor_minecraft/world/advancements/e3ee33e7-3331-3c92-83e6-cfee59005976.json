@@ -310,6 +310,7 @@
       "minecraft:lush_caves": "2025-05-17 21:50:49 +0000",
       "minecraft:jungle": "2025-05-18 04:30:34 +0000",
       "minecraft:ocean": "2025-05-18 04:31:04 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-18 04:44:03 +0000",
       "minecraft:plains": "2025-05-17 21:08:00 +0000"
     },
     "done": false
@@ -543,6 +544,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-18 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-18 04:47:46 +0000"
     },
     "done": true
   },

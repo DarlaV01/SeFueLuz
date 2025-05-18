@@ -4531,3 +4531,29 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [18May2025 04:45:48.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Mutual Aid]
 [18May2025 04:46:14.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Hunt and Gather]
 [18May2025 04:46:14.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Iron Torch]
+[18May2025 04:47:16.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gamerule sendCommandFeedback is now set to: false]
+[18May2025 04:47:46.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Close Quarters]
+[18May2025 04:47:56.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Graniter82a
+[18May2025 04:47:56.268] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[18May2025 04:49:40.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Close Quarters]
+[18May2025 04:50:11.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Mutual Aid]
+[18May2025 04:50:55.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ancient Scroll of Feather Falling] to Kazuruki]
+[18May2025 04:50:56.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Magic Writing]
+[18May2025 04:51:01.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [Like a bird]
+[18May2025 04:51:41.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ancient Scroll of Reach] to Kazuruki]
+[18May2025 04:51:46.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 04:51:51.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [The long arm of the law]
+[18May2025 04:53:28.278] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alienevo:machine_blast_chamber took 0 ms
+[18May2025 04:53:38.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Nico]
+[18May2025 04:53:55.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gamerule sendCommandFeedback is now set to: true]
+[18May2025 04:54:05.274] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alienevo:machine_blast_chamber took 0 ms
+[18May2025 04:54:38.479] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:plains took 11 ms
+[18May2025 04:54:47.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to 97.500000, 68.000000, 438.500000]
+[18May2025 04:54:59.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Nico to Graniter82a]
+[18May2025 04:55:22.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gamerule sendCommandFeedback is now set to: false]
+[18May2025 04:55:28.556] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alienevo:crash_site took 31 ms
+[18May2025 04:55:33.625] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alienevo:crash_site took 4 ms
+[18May2025 04:55:34.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gamerule sendCommandFeedback is now set to: true]
+[18May2025 04:55:36.954] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alienevo:crash_site took 4 ms
+[18May2025 04:56:28.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gamerule sendCommandFeedback is now set to: false]
+[18May2025 04:57:02.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Pic-A-Nic Basket?]
