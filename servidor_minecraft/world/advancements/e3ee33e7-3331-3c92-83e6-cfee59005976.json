@@ -433,7 +433,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-05-17 21:53:04 +0000",
-      "opened_chest": "2025-05-17 21:52:44 +0000"
+      "opened_chest": "2025-05-17 21:52:44 +0000",
+      "opened_cart": "2025-05-18 03:24:47 +0000"
     },
     "done": false
   },
@@ -469,6 +470,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-05-18 03:23:18 +0000",
       "minecraft:zombie": "2025-05-17 22:13:11 +0000"
     },
     "done": false
@@ -491,15 +493,33 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-18 03:28:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-18 03:22:00 +0000"
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-18 03:24:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-18 03:20:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 03:28:44 +0000"
     },
     "done": true
   },
