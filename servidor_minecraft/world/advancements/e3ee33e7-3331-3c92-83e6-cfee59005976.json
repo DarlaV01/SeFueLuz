@@ -302,6 +302,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-05-18 05:18:25 +0000",
       "minecraft:bamboo_jungle": "2025-05-18 04:30:06 +0000",
       "minecraft:beach": "2025-05-17 21:11:54 +0000",
       "minecraft:dark_forest": "2025-05-17 21:43:15 +0000",
@@ -413,8 +414,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "scrubland": "2025-05-18 05:19:58 +0000",
       "orchard": "2025-05-17 21:41:59 +0000",
       "lavender_forest": "2025-05-17 21:43:03 +0000",
+      "mediterranean_forest": "2025-05-18 05:20:59 +0000",
       "dune_beach": "2025-05-17 21:43:05 +0000",
       "lavender_field": "2025-05-18 04:55:04 +0000",
       "grassland": "2025-05-17 21:43:13 +0000",
@@ -539,6 +542,18 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-18 05:20:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "tomato_seed": "2025-05-18 05:24:53 +0000"
+    },
+    "done": false
+  },
   "corail_recycler:recipes/diamond_disk": {
     "criteria": {
       "requirement_2": "2025-05-18 03:56:03 +0000"
@@ -587,6 +602,12 @@
     },
     "done": true
   },
+  "croptopia:gather_all": {
+    "criteria": {
+      "tomato_seed": "2025-05-18 05:24:53 +0000"
+    },
+    "done": false
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-05-18 03:24:47 +0000"
@@ -596,6 +617,18 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-18 03:20:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-05-18 05:24:53 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-05-18 05:22:31 +0000"
     },
     "done": true
   },

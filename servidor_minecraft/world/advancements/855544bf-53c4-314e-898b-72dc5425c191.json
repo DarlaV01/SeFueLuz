@@ -395,6 +395,7 @@
       "old_growth_woodland": "2025-05-18 05:08:57 +0000",
       "orchard": "2025-05-17 21:15:03 +0000",
       "lavender_forest": "2025-05-17 21:15:19 +0000",
+      "mediterranean_forest": "2025-05-18 05:20:53 +0000",
       "spider_nest": "2025-05-18 04:14:16 +0000",
       "dune_beach": "2025-05-17 21:15:20 +0000",
       "grassland": "2025-05-17 21:37:26 +0000",
@@ -457,7 +458,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-05-17 21:52:12 +0000",
-      "opened_chest": "2025-05-17 21:52:20 +0000"
+      "opened_chest": "2025-05-17 21:52:20 +0000",
+      "opened_cart": "2025-05-18 05:25:59 +0000"
     },
     "done": false
   },
@@ -487,6 +489,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-18 05:24:16 +0000",
       "minecraft:skeleton": "2025-05-17 22:07:27 +0000",
       "minecraft:spider": "2025-05-17 22:07:32 +0000",
       "minecraft:creeper": "2025-05-17 22:11:16 +0000",
@@ -580,11 +583,29 @@
     },
     "done": false
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-18 05:27:23 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:recipes/diamond_shard": {
     "criteria": {
       "requirement_1": "2025-05-18 03:25:24 +0000"
     },
     "done": false
+  },
+  "croptopia:eatbig": {
+    "criteria": {
+      "eat_big": "2025-05-18 05:19:21 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-05-18 05:25:59 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/mastery_2": {
     "criteria": {
@@ -598,6 +619,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 05:24:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-18 05:26:51 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-05-18 04:57:02 +0000"
@@ -607,6 +640,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-05-18 04:00:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-05-18 05:24:01 +0000"
     },
     "done": true
   },
@@ -625,6 +664,12 @@
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2025-05-18 03:59:59 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-18 05:25:59 +0000"
     },
     "done": true
   },
