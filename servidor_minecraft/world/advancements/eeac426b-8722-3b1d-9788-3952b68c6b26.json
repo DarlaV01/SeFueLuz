@@ -303,6 +303,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-05-17 22:22:10 +0000",
+      "minecraft:bamboo_jungle": "2025-05-18 03:51:06 +0000",
       "minecraft:beach": "2025-05-17 21:08:37 +0000",
       "minecraft:dark_forest": "2025-05-17 21:42:28 +0000",
       "minecraft:river": "2025-05-17 21:34:24 +0000",
@@ -576,11 +577,41 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-18 03:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-18 03:46:00 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:recipes/diamond_shard": {
     "criteria": {
       "requirement_1": "2025-05-18 03:32:57 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-18 03:49:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-05-18 03:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-18 03:45:00 +0000"
+    },
+    "done": true
   },
   "croptopia:eatcrafted": {
     "criteria": {
@@ -594,9 +625,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-18 03:43:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-18 03:32:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 03:44:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-18 03:43:13 +0000"
     },
     "done": true
   },

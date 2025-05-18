@@ -4257,3 +4257,15 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [18May2025 03:45:00.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was blown up by Graniter82a
 [18May2025 03:45:00.220] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
 [18May2025 03:45:20.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Nico to Graniter82a]
+[18May2025 03:45:56.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Disme A Dozen]
+[18May2025 03:46:00.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Suit Up]
+[18May2025 03:47:27.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Hearty Meal]
+[18May2025 03:49:14.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Deceived Hopes]
+[18May2025 03:49:49.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [A Strange Grave Dust]
+[18May2025 03:52:04.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Chest Slayer]
+[18May2025 03:53:21.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Not Today, Thank You]
+[18May2025 03:55:00.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Door Knight
+[18May2025 03:55:00.275] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 03:55:43.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was killed by Ghost using magic
+[18May2025 03:55:43.225] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 03:55:53.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to -577.500000, 4.000000, -647.500000]

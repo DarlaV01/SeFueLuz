@@ -471,7 +471,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:cave_spider": "2025-05-18 03:23:18 +0000",
-      "minecraft:zombie": "2025-05-17 22:13:11 +0000"
+      "minecraft:zombie": "2025-05-17 22:13:11 +0000",
+      "minecraft:zombie_villager": "2025-05-18 03:46:26 +0000"
     },
     "done": false
   },
@@ -499,6 +500,12 @@
     },
     "done": true
   },
+  "corail_recycler:recipes/steel_disk": {
+    "criteria": {
+      "requirement_1": "2025-05-18 03:46:55 +0000"
+    },
+    "done": false
+  },
   "croptopia:gather_food": {
     "criteria": {
       "burrito": "2025-05-18 03:34:33 +0000"
@@ -508,6 +515,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-18 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-05-18 03:47:27 +0000"
     },
     "done": true
   },
@@ -532,6 +545,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-05-18 03:28:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-05-18 03:49:14 +0000"
     },
     "done": true
   },
