@@ -4223,3 +4223,37 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [18May2025 03:35:15.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Decrepit Skeleton
 [18May2025 03:35:15.528] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
 [18May2025 03:35:27.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to -500.500000, -48.000000, -617.500000]
+[18May2025 03:35:40.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Decrepit Skeleton
+[18May2025 03:35:40.731] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 03:35:43.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to -500.500000, -48.000000, -617.500000]
+[18May2025 03:35:54.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Tunnel Treasures]
+[18May2025 03:36:49.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Deceived Hopes]
+[18May2025 03:37:02.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Hearty Meal]
+[18May2025 03:37:04.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Decrepit Skeleton
+[18May2025 03:37:04.418] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 03:37:30.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Decrepit Skeleton
+[18May2025 03:37:30.573] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 03:37:49.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Decrepit Skeleton
+[18May2025 03:37:49.776] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 03:38:04.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Decrepit Skeleton
+[18May2025 03:38:04.527] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 03:38:23.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Junior Summoner]
+[18May2025 03:40:25.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: The difficulty has been set to Peaceful]
+[18May2025 03:40:26.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: The difficulty has been set to Hard]
+[18May2025 03:41:23.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Kobold
+[18May2025 03:41:23.924] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 03:41:42.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to -457.500000, -37.000000, -591.500000]
+[18May2025 03:42:10.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has made the advancement [Dark Metallurgy]
+[18May2025 03:42:12.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was blown up by Creeper
+[18May2025 03:42:12.541] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 03:42:29.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Zombie Bruiser
+[18May2025 03:42:29.676] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 03:42:35.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to -457.500000, -37.000000, -591.500000]
+[18May2025 03:43:13.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Back to childhood]
+[18May2025 03:43:13.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Not even afraid of death]
+[18May2025 03:44:06.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Ashes 'n Bones]
+[18May2025 03:44:41.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Nico]
+[18May2025 03:45:00.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Take Aim]
+[18May2025 03:45:00.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was blown up by Graniter82a
+[18May2025 03:45:00.220] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 03:45:20.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Nico to Graniter82a]

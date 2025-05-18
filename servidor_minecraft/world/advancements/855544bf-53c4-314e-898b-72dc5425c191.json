@@ -546,11 +546,29 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-18 03:34:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "burrito": "2025-05-18 03:34:14 +0000"
+    },
+    "done": false
+  },
   "corail_recycler:recipes/diamond_shard": {
     "criteria": {
       "requirement_1": "2025-05-18 03:25:24 +0000"
     },
     "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-18 03:34:16 +0000"
+    },
+    "done": true
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
