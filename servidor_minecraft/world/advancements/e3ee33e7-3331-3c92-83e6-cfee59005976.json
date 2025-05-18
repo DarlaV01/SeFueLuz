@@ -325,6 +325,7 @@
   },
   "corail_recycler:recipes/recycler": {
     "criteria": {
+      "requirement_2": "2025-05-18 03:56:03 +0000",
       "requirement_1": "2025-05-17 21:08:26 +0000"
     },
     "done": false
@@ -500,15 +501,28 @@
     },
     "done": true
   },
-  "corail_recycler:recipes/steel_disk": {
+  "corail_recycler:recipes/netherite_disk": {
     "criteria": {
-      "requirement_1": "2025-05-18 03:46:55 +0000"
+      "requirement_2": "2025-05-18 03:56:03 +0000"
     },
     "done": false
+  },
+  "corail_recycler:recipes/steel_disk": {
+    "criteria": {
+      "requirement_2": "2025-05-18 03:56:03 +0000",
+      "requirement_1": "2025-05-18 03:46:55 +0000"
+    },
+    "done": true
   },
   "croptopia:gather_food": {
     "criteria": {
       "burrito": "2025-05-18 03:34:33 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:recipes/diamond_disk": {
+    "criteria": {
+      "requirement_2": "2025-05-18 03:56:03 +0000"
     },
     "done": false
   },
@@ -518,9 +532,21 @@
     },
     "done": true
   },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-05-18 03:56:03 +0000"
+    },
+    "done": true
+  },
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2025-05-18 03:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-18 03:56:03 +0000"
     },
     "done": true
   },

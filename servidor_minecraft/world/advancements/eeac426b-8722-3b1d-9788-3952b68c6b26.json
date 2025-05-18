@@ -402,6 +402,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-18 03:53:27 +0000",
       "minecraft:cave_spider": "2025-05-18 03:40:50 +0000",
       "minecraft:zombie": "2025-05-18 03:41:00 +0000",
       "minecraft:drowned": "2025-05-17 21:34:47 +0000"
@@ -586,6 +587,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-05-18 03:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-18 03:53:21 +0000"
     },
     "done": true
   },
