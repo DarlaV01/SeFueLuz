@@ -4168,3 +4168,15 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [18May2025 05:48:48.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [Exorcism]
 [18May2025 05:49:51.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was impaled by Drowned
 [18May2025 05:49:51.886] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[18May2025 05:50:54.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18May2025 05:51:55.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 05:52:03.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [First Prayer]
+[18May2025 05:52:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Path of a Hero]
+[18May2025 05:52:14.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 05:52:14.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Path of a Hero]
+[18May2025 05:52:26.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has reached the goal [Bone Crusher]
+[18May2025 05:55:21.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Penteconter]
+[18May2025 05:56:55.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Wingin' It]
+[18May2025 05:57:23.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 05:58:03.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 05:58:41.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Mine? Mine? Mine?]

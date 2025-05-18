@@ -838,5 +838,31 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-05-18 05:52:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "copper": "2025-05-18 05:52:37 +0000",
+      "vine": "2025-05-18 05:52:37 +0000",
+      "chorus": "2025-05-18 05:52:37 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 05:52:26 +0000"
+    },
+    "done": true
+  },
+  "alienevo:galvan_capsule": {
+    "criteria": {
+      "find_galvan_capsule": "2025-05-18 05:52:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

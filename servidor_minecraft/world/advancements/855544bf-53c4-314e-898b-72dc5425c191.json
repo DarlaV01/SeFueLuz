@@ -498,7 +498,8 @@
       "minecraft:spider": "2025-05-17 22:07:32 +0000",
       "minecraft:creeper": "2025-05-17 22:11:16 +0000",
       "minecraft:husk": "2025-05-18 04:42:55 +0000",
-      "minecraft:zombie": "2025-05-17 21:56:22 +0000"
+      "minecraft:zombie": "2025-05-17 21:56:22 +0000",
+      "minecraft:drowned": "2025-05-18 05:49:10 +0000"
     },
     "done": false
   },
@@ -568,15 +569,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/talk_grave_guardian": {
+  "corail_recycler:recipes/diamond_shard": {
     "criteria": {
-      "coded_trigger": "2025-05-18 04:59:31 +0000"
+      "requirement_1": "2025-05-18 03:25:24 +0000"
     },
-    "done": true
+    "done": false
   },
-  "artifacts:chest_slayer": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "kill_mimic": "2025-05-18 03:34:15 +0000"
+      "diamond": "2025-05-18 03:25:24 +0000"
     },
     "done": true
   },
@@ -587,123 +588,9 @@
     },
     "done": false
   },
-  "tombstone:adventure/create_decorative_grave": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "has_decorative_grave": "2025-05-18 05:32:35 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "pillager_outpost": "2025-05-18 05:28:20 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-05-18 05:27:23 +0000"
-    },
-    "done": true
-  },
-  "corail_recycler:recipes/diamond_shard": {
-    "criteria": {
-      "requirement_1": "2025-05-18 03:25:24 +0000"
-    },
-    "done": false
-  },
-  "croptopia:eatbig": {
-    "criteria": {
-      "eat_big": "2025-05-18 05:19:21 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/robe": {
-    "criteria": {
-      "has_item": "2025-05-18 05:25:59 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mastery_2": {
-    "criteria": {
-      "coded_trigger": "2025-05-18 05:06:10 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mastery_1": {
-    "criteria": {
-      "coded_trigger": "2025-05-18 05:04:11 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-05-18 05:24:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_true_sight": {
-    "criteria": {
-      "has_magic_scroll": "2025-05-18 05:26:51 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-05-18 04:57:02 +0000"
-    },
-    "done": true
-  },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2025-05-18 04:00:40 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_merchant_campsite": {
-    "criteria": {
-      "location0": "2025-05-18 05:24:01 +0000"
-    },
-    "done": true
-  },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2025-05-18 04:17:09 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-18 04:19:38 +0000"
-    },
-    "done": true
-  },
-  "croptopia:eatcrafted": {
-    "criteria": {
-      "eat_crafted": "2025-05-18 03:59:59 +0000"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-05-18 05:25:59 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/versatility": {
-    "criteria": {
-      "coded_trigger": "2025-05-18 05:04:58 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-05-18 04:38:33 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-05-18 04:06:17 +0000"
+      "kill_mimic": "2025-05-18 03:34:15 +0000"
     },
     "done": true
   },
@@ -713,69 +600,15 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/warrior": {
+  "croptopia:eatcrafted": {
     "criteria": {
-      "has_item": "2025-05-18 05:10:57 +0000"
+      "eat_crafted": "2025-05-18 03:59:59 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
+  "lootr:10loot": {
     "criteria": {
-      "coded_trigger": "2025-05-18 05:28:55 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-05-18 04:19:23 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_reach": {
-    "criteria": {
-      "has_magic_scroll": "2025-05-18 04:51:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-05-18 04:50:56 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_pillager_outpost": {
-    "criteria": {
-      "minecraft:pillager_outpost": "2025-05-18 05:28:20 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-05-18 04:06:07 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_decorative_grave": {
-    "criteria": {
-      "has_ingredient": "2025-05-18 05:32:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-05-18 03:25:24 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mutual_aid": {
-    "criteria": {
-      "coded_trigger": "2025-05-18 04:45:48 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_voodoo_poppet": {
-    "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-05-18 04:19:23 +0000"
+      "loot_stat": "2025-05-18 04:00:40 +0000"
     },
     "done": true
   },
@@ -785,15 +618,221 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-18 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 04:06:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-18 04:17:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-18 04:19:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-18 04:19:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 04:19:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-05-18 04:27:45 +0000"
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-18 04:38:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 04:45:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-18 04:50:56 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_feather_fall": {
     "criteria": {
       "has_magic_scroll": "2025-05-18 04:51:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-18 04:51:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-05-18 04:57:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 04:59:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 05:04:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_2": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 05:06:10 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-05-18 05:10:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatbig": {
+    "criteria": {
+      "eat_big": "2025-05-18 05:19:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-05-18 05:24:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 05:24:16 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-05-18 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-18 05:25:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-18 05:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-18 05:27:23 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "pillager_outpost": "2025-05-18 05:28:20 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-05-18 05:28:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 05:28:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-05-18 05:32:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-05-18 05:32:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-05-18 05:50:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "copper": "2025-05-18 05:50:45 +0000",
+      "vine": "2025-05-18 05:50:45 +0000",
+      "chorus": "2025-05-18 05:50:45 +0000"
+    },
+    "done": false
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-18 05:55:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-05-18 05:48:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 05:52:03 +0000"
+    },
+    "done": true
+  },
+  "alienevo:galvan_capsule": {
+    "criteria": {
+      "find_galvan_capsule": "2025-05-18 05:52:14 +0000"
     },
     "done": true
   },
