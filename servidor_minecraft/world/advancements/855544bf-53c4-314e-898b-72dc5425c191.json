@@ -303,8 +303,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-05-18 22:01:13 +0000",
+      "minecraft:cherry_grove": "2025-05-18 22:04:37 +0000",
       "minecraft:birch_forest": "2025-05-18 04:55:33 +0000",
       "minecraft:bamboo_jungle": "2025-05-17 21:39:27 +0000",
+      "minecraft:savanna_plateau": "2025-05-18 22:05:57 +0000",
       "minecraft:beach": "2025-05-17 21:06:21 +0000",
       "minecraft:dark_forest": "2025-05-17 21:39:05 +0000",
       "minecraft:mangrove_swamp": "2025-05-18 21:49:48 +0000",
@@ -922,9 +924,25 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-05-18 22:14:03 +0000"
+    },
+    "done": true
+  },
   "integrated_villages:mediterranean_village": {
     "criteria": {
       "in_mediterranean_village": "2025-05-18 21:39:19 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "orange": "2025-05-18 22:08:28 +0000",
+      "red": "2025-05-18 22:08:43 +0000",
+      "blue": "2025-05-18 22:06:58 +0000",
+      "yellow": "2025-05-18 22:08:42 +0000",
+      "lavender": "2025-05-18 22:05:42 +0000"
     },
     "done": true
   },

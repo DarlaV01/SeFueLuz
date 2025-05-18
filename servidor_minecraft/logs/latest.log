@@ -4190,3 +4190,29 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [18May2025 22:04:37.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
 [18May2025 22:05:18.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3530ms or 70 ticks behind
 [18May2025 22:06:50.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nico moved wrongly!
+[18May2025 22:08:42.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Fallen Chaos Knight
+[18May2025 22:08:43.013] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 22:08:43.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has completed the challenge [Blossoming]
+[18May2025 22:09:18.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 22:09:26.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[18May2025 22:10:18.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was killed by Zombie using magic
+[18May2025 22:10:18.744] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[18May2025 22:10:24.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was killed by Zombie using magic
+[18May2025 22:10:24.753] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 22:10:40.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[18May2025 22:10:46.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Zombie
+[18May2025 22:10:46.618] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[18May2025 22:10:56.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Spider
+[18May2025 22:10:56.393] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 22:10:59.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: The difficulty has been set to Peaceful]
+[18May2025 22:11:13.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[18May2025 22:13:01.094] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 6774,107,11158,minecraft:overworld as filled
+[18May2025 22:14:08.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Nico]
+[18May2025 22:14:40.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Nico]
+[18May2025 22:15:46.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: The difficulty has been set to Hard]
+[18May2025 22:15:59.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Husk
+[18May2025 22:15:59.098] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 22:16:00.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18May2025 22:16:15.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 22:16:16.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[18May2025 22:17:33.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Nico]

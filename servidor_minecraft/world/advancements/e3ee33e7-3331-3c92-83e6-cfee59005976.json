@@ -302,8 +302,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-05-18 22:09:30 +0000",
       "minecraft:birch_forest": "2025-05-18 05:18:25 +0000",
       "minecraft:bamboo_jungle": "2025-05-18 04:30:06 +0000",
+      "minecraft:savanna_plateau": "2025-05-18 22:09:27 +0000",
       "minecraft:beach": "2025-05-17 21:11:54 +0000",
       "minecraft:dark_forest": "2025-05-17 21:43:15 +0000",
       "minecraft:river": "2025-05-17 21:13:29 +0000",
