@@ -302,11 +302,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-05-18 04:30:06 +0000",
       "minecraft:beach": "2025-05-17 21:11:54 +0000",
       "minecraft:dark_forest": "2025-05-17 21:43:15 +0000",
       "minecraft:river": "2025-05-17 21:13:29 +0000",
       "minecraft:forest": "2025-05-17 21:07:08 +0000",
       "minecraft:lush_caves": "2025-05-17 21:50:49 +0000",
+      "minecraft:jungle": "2025-05-18 04:30:34 +0000",
+      "minecraft:ocean": "2025-05-18 04:31:04 +0000",
       "minecraft:plains": "2025-05-17 21:08:00 +0000"
     },
     "done": false
@@ -382,7 +385,8 @@
     "criteria": {
       "apple": "2025-05-17 21:41:06 +0000",
       "bread": "2025-05-18 04:21:16 +0000",
-      "rotten_flesh": "2025-05-17 22:01:57 +0000"
+      "rotten_flesh": "2025-05-17 22:01:57 +0000",
+      "cookie": "2025-05-18 04:25:05 +0000"
     },
     "done": false
   },
@@ -539,6 +543,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-18 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-05-18 04:27:13 +0000"
     },
     "done": true
   },
