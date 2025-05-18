@@ -403,6 +403,7 @@
       "spider_nest": "2025-05-18 04:14:16 +0000",
       "dune_beach": "2025-05-17 21:15:20 +0000",
       "volcano": "2025-05-18 06:01:54 +0000",
+      "volcanic_plains": "2025-05-18 06:08:30 +0000",
       "grassland": "2025-05-17 21:37:26 +0000",
       "glowing_grotto": "2025-05-17 21:51:10 +0000",
       "rainforest": "2025-05-18 06:00:50 +0000",
@@ -501,6 +502,8 @@
       "minecraft:skeleton": "2025-05-17 22:07:27 +0000",
       "minecraft:spider": "2025-05-17 22:07:32 +0000",
       "minecraft:creeper": "2025-05-17 22:11:16 +0000",
+      "minecraft:slime": "2025-05-18 06:08:50 +0000",
+      "minecraft:witch": "2025-05-18 06:07:49 +0000",
       "minecraft:husk": "2025-05-18 04:42:55 +0000",
       "minecraft:zombie": "2025-05-17 21:56:22 +0000",
       "minecraft:drowned": "2025-05-18 05:49:10 +0000"
@@ -802,6 +805,24 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-05-18 06:08:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-05-18 06:10:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-18 06:10:17 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2025-05-18 05:50:45 +0000"
@@ -819,6 +840,24 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-05-18 05:55:21 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-05-18 06:08:40 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-05-18 06:10:07 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-05-18 06:11:37 +0000"
     },
     "done": true
   },
@@ -840,9 +879,27 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-05-18 06:07:03 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_naga": {
     "criteria": {
       "naga": "2025-05-18 05:56:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-05-18 06:07:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-05-18 06:06:38 +0000"
     },
     "done": true
   },
