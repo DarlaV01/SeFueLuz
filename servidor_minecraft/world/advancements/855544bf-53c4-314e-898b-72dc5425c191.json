@@ -959,6 +959,12 @@
     },
     "done": false
   },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-05-18 23:02:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-05-18 22:33:52 +0000"
@@ -968,6 +974,12 @@
   "tconstruct:tools/make_part": {
     "criteria": {
       "crafted_part": "2025-05-18 22:48:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2025-05-18 22:56:50 +0000"
     },
     "done": true
   },

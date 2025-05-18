@@ -309,6 +309,7 @@
       "minecraft:beach": "2025-05-17 21:11:54 +0000",
       "minecraft:dark_forest": "2025-05-17 21:43:15 +0000",
       "minecraft:river": "2025-05-17 21:13:29 +0000",
+      "minecraft:dripstone_caves": "2025-05-18 22:59:01 +0000",
       "minecraft:swamp": "2025-05-18 05:03:54 +0000",
       "minecraft:forest": "2025-05-17 21:07:08 +0000",
       "minecraft:lush_caves": "2025-05-17 21:50:49 +0000",
@@ -658,7 +659,8 @@
     "criteria": {
       "bellpepper_seed": "2025-05-18 22:47:06 +0000",
       "tomato_seed": "2025-05-18 05:24:53 +0000",
-      "pepper_seed": "2025-05-18 22:46:34 +0000"
+      "pepper_seed": "2025-05-18 22:46:34 +0000",
+      "olive_seed": "2025-05-18 23:01:17 +0000"
     },
     "done": false
   },
@@ -783,12 +785,30 @@
     },
     "done": true
   },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "olive_seed": "2025-05-18 23:01:17 +0000"
+    },
+    "done": false
+  },
   "croptopia:gather_plains": {
     "criteria": {
       "pepper_seed": "2025-05-18 22:46:34 +0000",
       "bellpepper_seed": "2025-05-18 22:47:06 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 22:59:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-18 22:59:44 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
