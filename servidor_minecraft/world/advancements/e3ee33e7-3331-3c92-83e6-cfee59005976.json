@@ -649,13 +649,16 @@
   },
   "croptopia:gather_forest": {
     "criteria": {
+      "radish_seed": "2025-05-18 22:45:21 +0000",
       "tomato_seed": "2025-05-18 05:24:53 +0000"
     },
     "done": false
   },
   "croptopia:gather_all": {
     "criteria": {
-      "tomato_seed": "2025-05-18 05:24:53 +0000"
+      "bellpepper_seed": "2025-05-18 22:47:06 +0000",
+      "tomato_seed": "2025-05-18 05:24:53 +0000",
+      "pepper_seed": "2025-05-18 22:46:34 +0000"
     },
     "done": false
   },
@@ -761,6 +764,31 @@
       "location0": "2025-05-18 22:14:24 +0000"
     },
     "done": true
+  },
+  "croptopia:frying_pan": {
+    "criteria": {
+      "frying_pan": "2025-05-18 22:50:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "rice_seed": "2025-05-18 22:45:33 +0000"
+    },
+    "done": false
+  },
+  "croptopia:pot": {
+    "criteria": {
+      "cooking_pot": "2025-05-18 22:51:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "pepper_seed": "2025-05-18 22:46:34 +0000",
+      "bellpepper_seed": "2025-05-18 22:47:06 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
