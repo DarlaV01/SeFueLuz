@@ -307,10 +307,13 @@
       "minecraft:beach": "2025-05-17 21:08:37 +0000",
       "minecraft:dark_forest": "2025-05-17 21:42:28 +0000",
       "minecraft:river": "2025-05-17 21:34:24 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-18 04:38:32 +0000",
       "minecraft:forest": "2025-05-17 21:06:25 +0000",
       "minecraft:lush_caves": "2025-05-17 21:50:53 +0000",
       "minecraft:ocean": "2025-05-17 22:08:03 +0000",
       "minecraft:jungle": "2025-05-18 04:29:14 +0000",
+      "minecraft:windswept_savanna": "2025-05-18 04:41:42 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-18 04:38:53 +0000",
       "minecraft:plains": "2025-05-17 21:08:28 +0000"
     },
     "done": false
@@ -432,6 +435,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "orchard": "2025-05-17 21:34:59 +0000",
+      "dune_beach": "2025-05-18 04:39:50 +0000",
+      "lavender_field": "2025-05-18 04:39:49 +0000",
       "grassland": "2025-05-17 21:42:31 +0000",
       "glowing_grotto": "2025-05-17 21:51:28 +0000"
     },
@@ -599,6 +604,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/prevent_death_fall": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 04:34:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-18 03:53:21 +0000"
@@ -652,6 +663,24 @@
       "opened_cart": "2025-05-18 03:35:54 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-18 04:37:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-18 04:35:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_fall": "2025-05-18 04:34:47 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
