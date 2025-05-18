@@ -307,6 +307,8 @@
       "minecraft:dark_forest": "2025-05-17 21:39:05 +0000",
       "minecraft:river": "2025-05-17 21:13:07 +0000",
       "minecraft:lukewarm_ocean": "2025-05-18 04:08:56 +0000",
+      "minecraft:dripstone_caves": "2025-05-18 04:17:45 +0000",
+      "minecraft:swamp": "2025-05-18 04:17:47 +0000",
       "minecraft:forest": "2025-05-17 21:00:42 +0000",
       "minecraft:lush_caves": "2025-05-17 21:51:00 +0000",
       "minecraft:ocean": "2025-05-17 21:35:10 +0000",
@@ -385,6 +387,7 @@
     "criteria": {
       "orchard": "2025-05-17 21:15:03 +0000",
       "lavender_forest": "2025-05-17 21:15:19 +0000",
+      "spider_nest": "2025-05-18 04:14:16 +0000",
       "dune_beach": "2025-05-17 21:15:20 +0000",
       "grassland": "2025-05-17 21:37:26 +0000",
       "glowing_grotto": "2025-05-17 21:51:10 +0000"
@@ -573,6 +576,18 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-18 04:17:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 04:19:38 +0000"
+    },
+    "done": true
+  },
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2025-05-18 03:59:59 +0000"
@@ -591,6 +606,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-18 04:19:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-05-18 04:06:07 +0000"
@@ -600,6 +621,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-18 03:25:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-18 04:19:23 +0000"
     },
     "done": true
   },

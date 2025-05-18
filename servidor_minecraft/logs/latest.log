@@ -4365,3 +4365,36 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [18May2025 04:14:45.184] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
 [18May2025 04:14:48.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Kazuruki]
 [18May2025 04:16:12.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18May2025 04:16:29.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 04:16:34.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Diamond Termite
+[18May2025 04:16:34.627] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 04:16:34.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[18May2025 04:17:04.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[18May2025 04:17:09.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Close Quarters]
+[18May2025 04:17:18.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18May2025 04:17:18.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Nico]
+[18May2025 04:17:44.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 7.071272038284178,0.0,-7.5121410671442845
+[18May2025 04:17:54.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 04:19:17.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 04:19:23.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Back to childhood]
+[18May2025 04:19:23.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Not even afraid of death]
+[18May2025 04:19:38.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Knowledge raises the soul]
+[18May2025 04:22:19.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Kobold
+[18May2025 04:22:19.177] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[18May2025 04:22:24.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a withered away whilst fighting Kobold
+[18May2025 04:22:24.587] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 04:22:36.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[18May2025 04:23:26.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 04:25:03.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18May2025 04:25:08.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Adventure Mode]
+[18May2025 04:25:10.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 04:25:19.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Nico]
+[18May2025 04:25:21.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[18May2025 04:25:46.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Nico to Graniter82a]
+[18May2025 04:25:55.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Kazuruki
+[18May2025 04:25:55.118] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 04:26:00.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[18May2025 04:26:15.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Gave 10 [Anchovy Pizza] to 3]
+[18May2025 04:26:26.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Bison
+[18May2025 04:26:26.418] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 04:26:29.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
