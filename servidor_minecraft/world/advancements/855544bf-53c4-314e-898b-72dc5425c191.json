@@ -302,6 +302,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-05-18 04:55:33 +0000",
       "minecraft:bamboo_jungle": "2025-05-17 21:39:27 +0000",
       "minecraft:beach": "2025-05-17 21:06:21 +0000",
       "minecraft:dark_forest": "2025-05-17 21:39:05 +0000",
@@ -312,7 +313,9 @@
       "minecraft:forest": "2025-05-17 21:00:42 +0000",
       "minecraft:lush_caves": "2025-05-17 21:51:00 +0000",
       "minecraft:ocean": "2025-05-17 21:35:10 +0000",
+      "minecraft:windswept_savanna": "2025-05-18 04:54:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-18 04:43:34 +0000",
+      "minecraft:savanna": "2025-05-18 05:01:47 +0000",
       "minecraft:plains": "2025-05-17 21:02:23 +0000"
     },
     "done": false
@@ -391,7 +394,8 @@
       "spider_nest": "2025-05-18 04:14:16 +0000",
       "dune_beach": "2025-05-17 21:15:20 +0000",
       "grassland": "2025-05-17 21:37:26 +0000",
-      "glowing_grotto": "2025-05-17 21:51:10 +0000"
+      "glowing_grotto": "2025-05-17 21:51:10 +0000",
+      "crag": "2025-05-18 05:00:24 +0000"
     },
     "done": false
   },
@@ -553,6 +557,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 04:59:31 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-05-18 03:34:15 +0000"
@@ -571,6 +581,24 @@
       "requirement_1": "2025-05-18 03:25:24 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/mastery_2": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 05:06:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 05:04:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-05-18 04:57:02 +0000"
+    },
+    "done": true
   },
   "lootr:10loot": {
     "criteria": {
@@ -593,6 +621,12 @@
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2025-05-18 03:59:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 05:04:58 +0000"
     },
     "done": true
   },

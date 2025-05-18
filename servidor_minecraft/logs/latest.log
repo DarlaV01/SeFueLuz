@@ -4557,3 +4557,31 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [18May2025 04:55:36.954] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alienevo:crash_site took 4 ms
 [18May2025 04:56:28.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gamerule sendCommandFeedback is now set to: false]
 [18May2025 04:57:02.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Pic-A-Nic Basket?]
+[18May2025 04:57:29.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Gemstone of Guardian] to Kazuruki]
+[18May2025 04:59:31.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Strange Encounter]
+[18May2025 04:59:34.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Grave Guardian
+[18May2025 04:59:34.852] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[18May2025 04:59:59.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Lead] to Kazuruki]
+[18May2025 05:00:00.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Kazuruki]
+[18May2025 05:00:19.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 05:00:23.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Nico]
+[18May2025 05:00:55.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ancient Scroll of Feather Falling] to Kazuruki]
+[18May2025 05:01:47.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 05:02:11.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 05:02:18.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Kazuruki
+[18May2025 05:02:18.282] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 05:02:21.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[18May2025 05:02:34.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Kazuruki
+[18May2025 05:02:34.929] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 05:02:37.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[18May2025 05:02:49.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Nico]
+[18May2025 05:03:23.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Masquerade]
+[18May2025 05:04:11.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [Mastery 1]
+[18May2025 05:04:58.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Versatility]
+[18May2025 05:05:48.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=63, z=722} BlockPos{x=359, y=61, z=724}
+[18May2025 05:06:10.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has completed the challenge [Mastery 2]
+[18May2025 05:06:20.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Zombie Bruiser
+[18May2025 05:06:20.040] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 05:07:07.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was killed by Zombie using magic
+[18May2025 05:07:07.913] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[18May2025 05:07:17.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Funeral Theft]
