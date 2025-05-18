@@ -4709,3 +4709,17 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [18May2025 23:13:48.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico left the game
 [18May2025 23:13:49.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki lost connection: Disconnected
 [18May2025 23:13:49.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki left the game
+[18May2025 23:18:24.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18May2025 23:18:24.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18May2025 23:18:24.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18May2025 23:18:24.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18May2025 23:18:24.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18May2025 23:18:24.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18May2025 23:18:24.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[18May2025 23:18:24.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18May2025 23:18:25.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18May2025 23:18:25.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18May2025 23:18:25.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18May2025 23:18:25.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18May2025 23:18:25.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18May2025 23:18:25.193] [Immersive Optimization Worker/INFO] [Immersive Optimization/]: Shutting down Immersive Optimization worker
