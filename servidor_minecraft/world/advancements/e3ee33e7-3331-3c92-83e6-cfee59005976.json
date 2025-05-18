@@ -514,22 +514,33 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "kill_mimic": "2025-05-18 03:28:49 +0000"
+      "slept_in_bed": "2025-05-18 03:20:49 +0000"
     },
     "done": true
   },
-  "corail_recycler:recipes/netherite_disk": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "requirement_2": "2025-05-18 03:56:03 +0000"
+      "from_undead": "2025-05-18 03:22:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "corail_recycler:recipes/steel_disk": {
+  "lootr:1cart": {
     "criteria": {
-      "requirement_2": "2025-05-18 03:56:03 +0000",
-      "requirement_1": "2025-05-18 03:46:55 +0000"
+      "opened_cart": "2025-05-18 03:24:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 03:28:44 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-18 03:28:49 +0000"
     },
     "done": true
   },
@@ -540,117 +551,9 @@
     },
     "done": false
   },
-  "croptopia:eatbig": {
+  "born_in_chaos_v1:junior_summoner": {
     "criteria": {
-      "eat_big": "2025-05-18 04:09:34 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-05-18 05:20:24 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_forest": {
-    "criteria": {
-      "tomato_seed": "2025-05-18 05:24:53 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-05-18 05:30:55 +0000"
-    },
-    "done": true
-  },
-  "corail_recycler:recipes/diamond_disk": {
-    "criteria": {
-      "requirement_2": "2025-05-18 03:56:03 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-05-18 03:22:00 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_merchant_campsite": {
-    "criteria": {
-      "location0": "2025-05-18 05:30:37 +0000"
-    },
-    "done": true
-  },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2025-05-18 04:47:46 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-05-18 04:39:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "rice": "2025-05-18 04:27:13 +0000"
-    },
-    "done": true
-  },
-  "immersive_aircraft:misc/aircraftery": {
-    "criteria": {
-      "has_item": "2025-05-18 03:56:03 +0000"
-    },
-    "done": true
-  },
-  "croptopia:eatcrafted": {
-    "criteria": {
-      "eat_crafted": "2025-05-18 03:47:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-05-18 03:56:03 +0000"
-    },
-    "done": true
-  },
-  "integrated_villages:mediterranean_village": {
-    "criteria": {
-      "in_mediterranean_village": "2025-05-18 05:35:14 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_all": {
-    "criteria": {
-      "tomato_seed": "2025-05-18 05:24:53 +0000"
-    },
-    "done": false
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-05-18 03:24:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-05-18 03:20:49 +0000"
-    },
-    "done": true
-  },
-  "croptopia:getseeds": {
-    "criteria": {
-      "has_seeds": "2025-05-18 05:24:53 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/warrior": {
-    "criteria": {
-      "has_item": "2025-05-18 05:22:31 +0000"
+      "junior_summoner_0": "2025-05-18 03:38:23 +0000"
     },
     "done": true
   },
@@ -660,9 +563,16 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "corail_recycler:recipes/steel_disk": {
     "criteria": {
-      "coded_trigger": "2025-05-18 03:28:44 +0000"
+      "requirement_2": "2025-05-18 03:56:03 +0000",
+      "requirement_1": "2025-05-18 03:46:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-05-18 03:47:27 +0000"
     },
     "done": true
   },
@@ -672,9 +582,99 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:junior_summoner": {
+  "corail_recycler:recipes/netherite_disk": {
     "criteria": {
-      "junior_summoner_0": "2025-05-18 03:38:23 +0000"
+      "requirement_2": "2025-05-18 03:56:03 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:recipes/diamond_disk": {
+    "criteria": {
+      "requirement_2": "2025-05-18 03:56:03 +0000"
+    },
+    "done": false
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-05-18 03:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-18 03:56:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatbig": {
+    "criteria": {
+      "eat_big": "2025-05-18 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-05-18 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-05-18 04:39:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-18 04:47:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-18 05:20:24 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-05-18 05:22:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "tomato_seed": "2025-05-18 05:24:53 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "tomato_seed": "2025-05-18 05:24:53 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-05-18 05:24:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-05-18 05:30:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 05:30:55 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:mediterranean_village": {
+    "criteria": {
+      "in_mediterranean_village": "2025-05-18 05:35:14 +0000"
     },
     "done": true
   },
