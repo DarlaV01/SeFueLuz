@@ -302,6 +302,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-17 22:22:10 +0000",
       "minecraft:beach": "2025-05-17 21:08:37 +0000",
       "minecraft:dark_forest": "2025-05-17 21:42:28 +0000",
       "minecraft:river": "2025-05-17 21:34:24 +0000",
@@ -499,7 +500,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-05-17 21:50:03 +0000",
-      "rotten_flesh": "2025-05-17 22:00:39 +0000"
+      "rotten_flesh": "2025-05-17 22:00:39 +0000",
+      "glow_berries": "2025-05-17 22:24:17 +0000"
     },
     "done": false
   },
@@ -528,21 +530,15 @@
     },
     "done": false
   },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-05-17 22:00:40 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-05-17 22:09:26 +0000"
-    },
-    "done": true
-  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-05-17 22:00:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-17 22:00:40 +0000"
     },
     "done": true
   },
@@ -555,6 +551,24 @@
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-05-17 22:06:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-17 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2025-05-17 22:24:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-17 22:27:08 +0000"
     },
     "done": true
   },
