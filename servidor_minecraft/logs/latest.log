@@ -4704,3 +4704,8 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [18May2025 23:02:28.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was impaled on a stalagmite
 [18May2025 23:02:28.537] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
 [18May2025 23:06:14.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Nico to Kazuruki]
+[18May2025 23:08:34.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Diamond Shovel] to Kazuruki]
+[18May2025 23:13:48.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nico lost connection: Disconnected
+[18May2025 23:13:48.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico left the game
+[18May2025 23:13:49.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki lost connection: Disconnected
+[18May2025 23:13:49.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki left the game
