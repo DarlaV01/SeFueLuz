@@ -4585,3 +4585,47 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [18May2025 05:07:07.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was killed by Zombie using magic
 [18May2025 05:07:07.913] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
 [18May2025 05:07:17.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Funeral Theft]
+[18May2025 05:07:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 05:07:40.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Zombie
+[18May2025 05:07:40.875] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 05:08:54.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was doomed to fall by Spider
+[18May2025 05:08:54.439] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 05:09:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Zombie Bruiser
+[18May2025 05:09:07.176] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 05:09:08.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [The Most Useful Key]
+[18May2025 05:09:21.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has reached the goal [A Fast Comeback]
+[18May2025 05:09:31.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 05:09:34.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Creative Mode]
+[18May2025 05:10:01.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was struck by lightning whilst fighting Spider
+[18May2025 05:10:01.586] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 05:10:33.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 05:11:20.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Penteconter]
+[18May2025 05:11:25.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Dread Hound
+[18May2025 05:11:25.676] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[18May2025 05:11:59.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 05:12:25.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Kazuruki
+[18May2025 05:12:25.183] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 05:12:29.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Nico]
+[18May2025 05:12:53.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Dread Hound
+[18May2025 05:12:53.028] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[18May2025 05:13:06.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: The difficulty has been set to Peaceful]
+[18May2025 05:13:07.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: The difficulty has been set to Hard]
+[18May2025 05:14:04.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ankh of Prayer] to Kazuruki]
+[18May2025 05:14:13.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Original Grave] to Kazuruki]
+[18May2025 05:14:14.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ankh of Prayer] to Kazuruki]
+[18May2025 05:14:33.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[18May2025 05:14:52.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Summoned new Lightning Bolt]
+[18May2025 05:14:55.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Kazuruki
+[18May2025 05:14:55.881] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 05:15:02.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[18May2025 05:15:18.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Kazuruki
+[18May2025 05:15:18.687] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 05:15:22.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[18May2025 05:15:32.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Kazuruki
+[18May2025 05:15:32.240] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 05:15:35.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Kazuruki]
+[18May2025 05:15:41.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was killed
+[18May2025 05:15:41.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Killed Kazuruki]
+[18May2025 05:15:41.936] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[18May2025 05:16:37.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Crops of the Wild]
+[18May2025 05:17:23.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
