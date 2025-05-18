@@ -306,6 +306,7 @@
       "minecraft:beach": "2025-05-17 21:06:21 +0000",
       "minecraft:dark_forest": "2025-05-17 21:39:05 +0000",
       "minecraft:river": "2025-05-17 21:13:07 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-18 04:08:56 +0000",
       "minecraft:forest": "2025-05-17 21:00:42 +0000",
       "minecraft:lush_caves": "2025-05-17 21:51:00 +0000",
       "minecraft:ocean": "2025-05-17 21:35:10 +0000",
@@ -394,6 +395,7 @@
     "criteria": {
       "chicken": "2025-05-17 21:32:46 +0000",
       "apple": "2025-05-17 21:59:02 +0000",
+      "golden_apple": "2025-05-18 04:09:04 +0000",
       "glow_berries": "2025-05-17 21:52:05 +0000"
     },
     "done": false
@@ -554,6 +556,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "anchovy_pizza": "2025-05-18 04:09:23 +0000",
       "burrito": "2025-05-18 03:34:14 +0000"
     },
     "done": false
@@ -576,15 +579,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 04:06:17 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-05-18 03:34:16 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-18 04:06:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-18 03:25:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-05-18 04:02:33 +0000"
     },
     "done": true
   },

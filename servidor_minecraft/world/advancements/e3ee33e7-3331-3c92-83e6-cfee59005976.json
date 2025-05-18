@@ -471,6 +471,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-18 04:03:21 +0000",
+      "minecraft:creeper": "2025-05-18 04:06:40 +0000",
       "minecraft:cave_spider": "2025-05-18 03:23:18 +0000",
       "minecraft:zombie": "2025-05-17 22:13:11 +0000",
       "minecraft:zombie_villager": "2025-05-18 03:46:26 +0000"
@@ -516,9 +518,16 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "anchovy_pizza": "2025-05-18 04:09:31 +0000",
       "burrito": "2025-05-18 03:34:33 +0000"
     },
     "done": false
+  },
+  "croptopia:eatbig": {
+    "criteria": {
+      "eat_big": "2025-05-18 04:09:34 +0000"
+    },
+    "done": true
   },
   "corail_recycler:recipes/diamond_disk": {
     "criteria": {

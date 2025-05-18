@@ -403,6 +403,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-18 03:53:27 +0000",
+      "minecraft:slime": "2025-05-18 04:03:27 +0000",
       "minecraft:cave_spider": "2025-05-18 03:40:50 +0000",
       "minecraft:zombie": "2025-05-18 03:41:00 +0000",
       "minecraft:drowned": "2025-05-17 21:34:47 +0000"
@@ -567,6 +568,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "anchovy_pizza": "2025-05-18 04:09:23 +0000",
       "burrito": "2025-05-18 03:34:14 +0000",
       "glowing_calamari": "2025-05-17 22:24:47 +0000"
     },
@@ -590,6 +592,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-05-18 04:03:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-18 03:53:21 +0000"
@@ -601,6 +609,18 @@
       "requirement_1": "2025-05-18 03:32:57 +0000"
     },
     "done": false
+  },
+  "croptopia:eatbig": {
+    "criteria": {
+      "eat_big": "2025-05-18 04:09:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-05-18 04:03:28 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {

@@ -4319,3 +4319,49 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [18May2025 04:05:44.787] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
 [18May2025 04:06:00.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Kazuruki]
 [18May2025 04:06:07.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [The Most Useful Key]
+[18May2025 04:06:17.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [A Fast Comeback]
+[18May2025 04:06:18.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was blown up by Creeper
+[18May2025 04:06:18.735] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 04:06:29.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Nico to Graniter82a]
+[18May2025 04:06:50.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Zombie
+[18May2025 04:06:50.377] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 04:06:53.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Nico]
+[18May2025 04:07:21.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Zombie
+[18May2025 04:07:21.233] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 04:07:23.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to Nico]
+[18May2025 04:07:28.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was shot by Skeleton
+[18May2025 04:07:28.833] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 04:07:35.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Nico to Graniter82a]
+[18May2025 04:07:37.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 64 [Torch] to Kazuruki]
+[18May2025 04:07:53.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Dread Hound
+[18May2025 04:07:53.277] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[18May2025 04:07:55.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Nico to Graniter82a]
+[18May2025 04:08:06.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Graniter82a to -520.500000, -8.000000, -706.500000]
+[18May2025 04:08:08.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Nico to Graniter82a]
+[18May2025 04:08:19.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made Nico a server operator]
+[18May2025 04:08:51.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18May2025 04:08:59.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 04:09:13.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18May2025 04:09:15.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 04:09:23.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Gave 10 [Anchovy Pizza] to 3]
+[18May2025 04:09:26.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has reached the goal [Fully Stuffed]
+[18May2025 04:09:34.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico has reached the goal [Fully Stuffed]
+[18May2025 04:10:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nico was slain by Zombie
+[18May2025 04:10:11.875] [Server thread/INFO] [tombstone/]: The player Nico has successfully been saved
+[18May2025 04:10:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Kobold
+[18May2025 04:10:17.926] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[18May2025 04:10:26.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Teleported Nico to Graniter82a]
+[18May2025 04:10:28.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Kazuruki]
+[18May2025 04:11:11.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Nico]
+[18May2025 04:11:53.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18May2025 04:12:06.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 04:12:41.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18May2025 04:12:58.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 04:13:42.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18May2025 04:14:18.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 04:14:38.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[18May2025 04:14:43.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[18May2025 04:14:45.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Mimic
+[18May2025 04:14:45.184] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[18May2025 04:14:48.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Kazuruki]
+[18May2025 04:16:12.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
