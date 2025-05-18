@@ -683,33 +683,63 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-05-18 21:41:00 +0000"
-    },
-    "done": true
-  },
   "croptopia:knife": {
     "criteria": {
       "knife": "2025-05-18 21:35:04 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-05-18 22:02:14 +0000"
+      "flint_knife": "2025-05-18 21:35:04 +0000"
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "potion": "2025-05-18 21:54:40 +0000"
+      "deflected_projectile": "2025-05-18 21:41:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 21:46:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-18 21:47:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-05-18 21:50:01 +0000"
     },
     "done": true
   },
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2025-05-18 21:50:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "melting_pan": "2025-05-18 21:50:55 +0000"
+    },
+    "done": false
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-18 21:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-18 21:54:40 +0000"
     },
     "done": true
   },
@@ -720,45 +750,15 @@
     },
     "done": false
   },
-  "tombstone:adventure/bone_crusher": {
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
-      "coded_trigger": "2025-05-18 21:46:56 +0000"
+      "lifeturnedouttobeacomedy_0": "2025-05-18 22:02:14 +0000"
     },
     "done": true
   },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-05-18 22:14:24 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:world/ancient_tools": {
-    "criteria": {
-      "melting_pan": "2025-05-18 21:50:55 +0000"
-    },
-    "done": false
-  },
-  "croptopia:root": {
-    "criteria": {
-      "root": "2025-05-18 21:50:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "flint_knife": "2025-05-18 21:35:04 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-05-18 21:52:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-05-18 21:47:15 +0000"
     },
     "done": true
   },
