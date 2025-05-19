@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "onion_seed": "2025-05-19 01:55:01 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-05-19 01:46:27 +0000"
@@ -174,6 +180,12 @@
     },
     "done": true
   },
+  "croptopia:gather_all": {
+    "criteria": {
+      "onion_seed": "2025-05-19 01:55:01 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-05-19 01:46:27 +0000"
@@ -195,6 +207,18 @@
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-05-19 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-19 01:57:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-05-19 01:55:01 +0000"
     },
     "done": true
   },
@@ -273,6 +297,12 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-05-19 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-19 01:57:09 +0000"
     },
     "done": true
   },
