@@ -4327,3 +4327,50 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [19May2025 03:49:23.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
 [19May2025 03:49:36.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made Laboya04 a server operator]
 [19May2025 03:49:46.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[19May2025 03:51:17.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Monster Hunter]
+[19May2025 03:51:22.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [The Lighthouse]
+[19May2025 03:51:26.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was shot by Dark Vortex
+[19May2025 03:51:26.403] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[19May2025 03:52:44.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [A Strange Grave Dust]
+[19May2025 03:52:56.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a fell from a high place
+[19May2025 03:52:56.358] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[19May2025 03:53:15.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was shot by Skeleton
+[19May2025 03:53:15.505] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[19May2025 03:53:23.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
+[19May2025 03:54:00.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by Enderman
+[19May2025 03:54:00.604] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[19May2025 03:54:14.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved too quickly! -4.396169841687879,-9.66706724457589,-1.907204914161639
+[19May2025 03:54:14.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[19May2025 03:54:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[19May2025 03:54:54.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was blown up by Creeper
+[19May2025 03:54:54.685] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[19May2025 03:55:04.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Gave 1 [Ender Pearl] to Graniter82a]
+[19May2025 03:55:25.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! 3.180309515716999,0.0,-9.686486649712151
+[19May2025 03:55:25.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved too quickly! 9.003622226442076,3.419999986886978,-2.806848392170423
+[19May2025 03:55:25.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4913ms or 98 ticks behind
+[19May2025 03:55:30.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki moved too quickly! -0.005797363808142109,1.3047980181288565,-10.34646074266675
+[19May2025 03:55:30.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a moved too quickly! 8.07290498134239,3.0,-5.302045125604309
+[19May2025 03:55:34.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Dread Hound
+[19May2025 03:55:34.754] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[19May2025 03:55:45.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Dread Hound
+[19May2025 03:55:45.897] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[19May2025 03:55:52.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Alex's Caves]
+[19May2025 03:55:54.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Gave 1 [Ender Pearl] to Graniter82a]
+[19May2025 03:56:02.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19May2025 03:56:03.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/1944, l='ServerLevel[world]', x=1329.87, y=81.00, z=1852.05] died, message: 'Cartographer was slain by Zombie Girl'
+[19May2025 03:56:24.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was shot by Skeleton
+[19May2025 03:56:24.860] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[19May2025 03:56:29.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[19May2025 03:56:51.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Disme A Dozen]
+[19May2025 03:56:52.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [It Belongs in a Museum]
+[19May2025 03:56:55.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Getting an Upgrade]
+[19May2025 03:56:56.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Once Upon a Cave]
+[19May2025 03:57:21.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13079, l='ServerLevel[world]', x=1128.50, y=239.00, z=1175.50] died, message: 'Unemployed suffocated in a wall'
+[19May2025 03:58:08.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laboya04 moved too quickly! -9.966656976638433,1.003016261509046,1.665629249099311
+[19May2025 03:58:08.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2331ms or 46 ticks behind
+[19May2025 03:58:11.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[19May2025 03:58:32.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Survival Mode]
+[19May2025 03:58:39.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
+[19May2025 03:58:47.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Close Quarters]
+[19May2025 03:59:20.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[19May2025 04:00:04.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Sneak 100]
