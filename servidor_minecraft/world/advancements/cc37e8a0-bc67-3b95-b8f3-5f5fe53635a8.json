@@ -493,7 +493,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-05-19 03:17:26 +0000"
+      "cooked_beef": "2025-05-19 03:17:26 +0000",
+      "bread": "2025-05-19 03:41:12 +0000"
     },
     "done": false
   },
@@ -524,6 +525,42 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-05-19 03:35:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-05-19 03:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-19 03:43:57 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-19 03:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-19 03:44:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-05-19 03:44:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-05-19 03:45:57 +0000"
     },
     "done": true
   },

@@ -588,5 +588,11 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-05-19 03:45:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
