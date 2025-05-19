@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-19 02:30:10 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-05-19 01:46:27 +0000"
@@ -35,6 +41,25 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-05-19 02:31:31 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/netherite_disk": {
+    "criteria": {
+      "requirement_2": "2025-05-19 02:30:16 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:recipes/steel_disk": {
+    "criteria": {
+      "requirement_2": "2025-05-19 02:30:16 +0000",
+      "requirement_1": "2025-05-19 02:30:11 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/slime_collector": {
     "criteria": {
       "earth": "2025-05-19 02:23:31 +0000"
@@ -47,11 +72,30 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-05-19 02:31:38 +0000",
+      "opened_chest": "2025-05-19 02:30:10 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/nuclear_bomb": {
     "criteria": {
       "nuclear_bomb": "2025-05-19 02:22:17 +0000"
     },
     "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-05-19 02:31:09 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/diamond_shard": {
+    "criteria": {
+      "requirement_1": "2025-05-19 02:30:18 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_white": {
     "criteria": {
@@ -119,6 +163,12 @@
     },
     "done": true
   },
+  "corail_recycler:recipes/diamond_disk": {
+    "criteria": {
+      "requirement_2": "2025-05-19 02:30:16 +0000"
+    },
+    "done": false
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-05-19 02:23:31 +0000"
@@ -161,6 +211,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-19 02:31:38 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-05-19 02:02:31 +0000"
@@ -193,6 +249,7 @@
   },
   "corail_recycler:recipes/recycler": {
     "criteria": {
+      "requirement_2": "2025-05-19 02:30:16 +0000",
       "requirement_1": "2025-05-19 02:04:09 +0000"
     },
     "done": false
@@ -200,6 +257,12 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-05-19 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-05-19 02:30:16 +0000"
     },
     "done": true
   },
@@ -222,9 +285,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 02:34:17 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-05-19 01:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-19 02:30:16 +0000"
     },
     "done": true
   },
@@ -342,6 +417,8 @@
     "criteria": {
       "minecraft:beach": "2025-05-19 02:21:25 +0000",
       "minecraft:lukewarm_ocean": "2025-05-19 02:02:45 +0000",
+      "minecraft:river": "2025-05-19 02:29:49 +0000",
+      "minecraft:forest": "2025-05-19 02:29:58 +0000",
       "minecraft:savanna": "2025-05-19 02:16:38 +0000"
     },
     "done": false
@@ -373,6 +450,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-05-19 02:11:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 02:33:45 +0000"
     },
     "done": true
   },
@@ -421,6 +504,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-19 02:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-19 02:30:18 +0000"
     },
     "done": true
   },

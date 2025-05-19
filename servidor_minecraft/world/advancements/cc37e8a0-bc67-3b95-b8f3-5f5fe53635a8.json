@@ -318,5 +318,99 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-19 02:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-19 02:35:47 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/netherite_disk": {
+    "criteria": {
+      "requirement_2": "2025-05-19 02:35:49 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:recipes/steel_disk": {
+    "criteria": {
+      "requirement_2": "2025-05-19 02:35:49 +0000"
+    },
+    "done": false
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-05-19 02:35:38 +0000",
+      "opened_chest": "2025-05-19 02:35:44 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-05-19 02:35:25 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/diamond_shard": {
+    "criteria": {
+      "requirement_1": "2025-05-19 02:35:45 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:recipes/diamond_disk": {
+    "criteria": {
+      "requirement_2": "2025-05-19 02:35:49 +0000"
+    },
+    "done": false
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-05-19 02:36:51 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-19 02:35:38 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/recycler": {
+    "criteria": {
+      "requirement_2": "2025-05-19 02:35:49 +0000"
+    },
+    "done": false
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-05-19 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-19 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-05-19 02:38:10 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-19 02:35:25 +0000",
+      "minecraft:river": "2025-05-19 02:38:20 +0000",
+      "minecraft:forest": "2025-05-19 02:38:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-19 02:35:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
