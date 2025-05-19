@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "inputItem": "alienevo:galvan_pod:1",
+    "outputItems": [
+      "minecraft:iron_ingot:4",
+      "alienevo:galvan_scrap:4",
+      "minecraft:chest:1"
+    ]
+  }
+]

@@ -691,6 +691,12 @@
     },
     "done": true
   },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "blue": "2025-05-19 04:14:54 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-05-19 03:56:52 +0000"
