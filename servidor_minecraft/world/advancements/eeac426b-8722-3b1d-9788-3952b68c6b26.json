@@ -570,6 +570,12 @@
     },
     "done": true
   },
+  "corail_recycler:recipes/diamond_shard": {
+    "criteria": {
+      "requirement_1": "2025-05-19 04:35:33 +0000"
+    },
+    "done": false
+  },
   "croptopia:knife": {
     "criteria": {
       "knife": "2025-05-19 04:05:26 +0000"
@@ -618,9 +624,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "honey_glazed_ham": "2025-05-19 04:32:18 +0000"
+    },
+    "done": false
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-05-19 04:06:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 04:33:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-19 04:32:18 +0000"
     },
     "done": true
   },
@@ -649,6 +673,18 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "flint_knife": "2025-05-19 04:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-19 04:35:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 04:31:39 +0000"
     },
     "done": true
   },
