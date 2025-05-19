@@ -361,17 +361,58 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 02:26:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 02:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-19 02:27:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 02:27:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 02:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cherry_grove": "2025-05-19 03:11:42 +0000",
+      "minecraft:beach": "2025-05-19 02:29:59 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-19 02:32:02 +0000",
+      "minecraft:river": "2025-05-19 02:29:45 +0000",
+      "minecraft:forest": "2025-05-19 02:29:54 +0000"
+    },
+    "done": false
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-05-19 02:30:02 +0000"
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "lootr:social": {
     "criteria": {
-      "iron_chestplate": "2025-05-19 02:32:07 +0000"
+      "opened_barrel": "2025-05-19 02:32:02 +0000",
+      "opened_chest": "2025-05-19 02:30:02 +0000"
     },
-    "done": true
+    "done": false
   },
   "corail_recycler:recipes/netherite_disk": {
     "criteria": {
@@ -386,61 +427,11 @@
     },
     "done": true
   },
-  "lootr:social": {
-    "criteria": {
-      "opened_barrel": "2025-05-19 02:32:02 +0000",
-      "opened_chest": "2025-05-19 02:30:02 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
-    "criteria": {
-      "location1": "2025-05-19 02:32:02 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/tinker_tool": {
-    "criteria": {
-      "crafted_tool": "2025-05-19 02:31:01 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/robe": {
-    "criteria": {
-      "has_item": "2025-05-19 02:47:12 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/material_master": {
-    "criteria": {
-      "rock": "2025-05-19 02:31:43 +0000",
-      "wood": "2025-05-19 02:31:01 +0000"
-    },
-    "done": false
-  },
   "corail_recycler:recipes/diamond_disk": {
     "criteria": {
       "requirement_2": "2025-05-19 02:30:03 +0000"
     },
     "done": false
-  },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2025-05-19 02:34:35 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-05-19 02:32:02 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/wooden": {
-    "criteria": {
-      "has_item": "2025-05-19 02:32:28 +0000"
-    },
-    "done": true
   },
   "corail_recycler:recipes/recycler": {
     "criteria": {
@@ -455,27 +446,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-19 02:27:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-19 02:28:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-19 02:30:03 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-05-19 02:32:52 +0000"
     },
     "done": true
   },
@@ -485,34 +458,51 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "tconstruct:tools/tinker_tool": {
     "criteria": {
-      "minecraft:beach": "2025-05-19 02:29:59 +0000",
-      "minecraft:lukewarm_ocean": "2025-05-19 02:32:02 +0000",
-      "minecraft:river": "2025-05-19 02:29:45 +0000",
-      "minecraft:forest": "2025-05-19 02:29:54 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/easy_opening": {
-    "criteria": {
-      "coded_trigger": "2025-05-19 02:27:58 +0000"
+      "crafted_tool": "2025-05-19 02:31:01 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
+  "tconstruct:tools/material_master": {
     "criteria": {
-      "coded_trigger": "2025-05-19 02:26:50 +0000"
+      "rock": "2025-05-19 02:31:43 +0000",
+      "wood": "2025-05-19 02:31:01 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-05-19 02:32:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-19 02:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-19 02:32:07 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2025-05-19 03:12:02 +0000",
       "porkchop": "2025-05-19 02:42:05 +0000",
       "cooked_cod": "2025-05-19 02:44:19 +0000",
       "melon_slice": "2025-05-19 02:32:23 +0000"
     },
     "done": false
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-05-19 02:32:28 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
@@ -520,15 +510,39 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "coded_trigger": "2025-05-19 02:26:50 +0000"
+      "coded_trigger": "2025-05-19 02:32:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-05-19 02:34:35 +0000"
     },
     "done": true
   },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-19 02:34:54 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-05-19 02:47:12 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-05-19 03:11:42 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_cherry": "2025-05-19 03:11:42 +0000"
     },
     "done": true
   },
