@@ -437,9 +437,10 @@
   "corail_recycler:recipes/recycler": {
     "criteria": {
       "requirement_2": "2025-05-19 02:30:03 +0000",
+      "requirement_3": "2025-05-19 04:20:07 +0000",
       "requirement_1": "2025-05-19 02:33:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
@@ -563,6 +564,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-19 04:27:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:knife": {
     "criteria": {
       "knife": "2025-05-19 04:05:26 +0000"
@@ -581,9 +588,27 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-19 04:22:56 +0000"
+    },
+    "done": true
+  },
   "simplyswords:whisperwind": {
     "criteria": {
       "requirement": "2025-05-19 04:05:27 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/first_recycle": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 04:20:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-19 04:23:31 +0000"
     },
     "done": true
   },
