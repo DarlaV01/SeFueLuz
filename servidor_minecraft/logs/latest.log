@@ -5052,3 +5052,85 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [19May2025 02:11:02.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made Graniter82a no longer a server operator]
 [19May2025 02:11:03.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has reached the goal [Here They Come]
 [19May2025 02:11:13.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [Here They Come]
+[19May2025 02:12:02.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a has made the advancement [Alex's Mobs]
+[19May2025 02:12:45.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was slain by Kazuruki
+[19May2025 02:12:45.613] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[19May2025 02:12:56.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made Graniter82a a server operator]
+[19May2025 02:12:57.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[19May2025 02:13:03.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a lost connection: Disconnected
+[19May2025 02:13:03.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a left the game
+[19May2025 02:14:13.486] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fe90ff9[id=<null>,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:59279) lost connection: Disconnected
+[19May2025 02:14:44.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Graniter82a[/10.147.18.162:59322] logged in with entity id 6494 at (-879.1257136440936, 79.0, 330.64967901929134)
+[19May2025 02:14:44.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a joined the game
+[19May2025 02:14:45.487] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (eeac426b-8722-3b1d-9788-3952b68c6b26)
+[19May2025 02:14:45.487] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Graniter82a
+[19May2025 02:14:45.488] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Graniter82a'
+[19May2025 02:14:45.488] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Graniter82a'
+[19May2025 02:14:45.489] [Server thread/INFO] [Jade/]: Syncing config to Graniter82a (eeac426b-8722-3b1d-9788-3952b68c6b26)
+[19May2025 02:14:46.170] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Graniter82a
+[19May2025 02:15:15.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set the time to 1000]
+[19May2025 02:15:26.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[19May2025 02:15:29.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[19May2025 02:15:38.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[19May2025 02:15:44.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19May2025 02:15:48.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Summoned new The Mimicer]
+[19May2025 02:15:51.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Summoned new The Mimicer]
+[19May2025 02:15:51.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Summoned new The Mimicer]
+[19May2025 02:15:52.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Summoned new The Mimicer]
+[19May2025 02:15:52.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Summoned new The Mimicer]
+[19May2025 02:15:52.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Summoned new The Mimicer]
+[19May2025 02:15:52.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Summoned new The Mimicer]
+[19May2025 02:15:53.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[19May2025 02:15:56.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: The difficulty has been set to Hard]
+[19May2025 02:15:57.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Summoned new The Mimicer]
+[19May2025 02:16:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set Graniter82a's game mode to Survival Mode]
+[19May2025 02:16:04.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Set own game mode to Creative Mode]
+[19May2025 02:16:04.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made Graniter82a no longer a server operator]
+[19May2025 02:16:08.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set Graniter82a's game mode to Survival Mode]
+[19May2025 02:16:10.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Kazuruki to Graniter82a]
+[19May2025 02:16:10.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a lost connection: Disconnected
+[19May2025 02:16:10.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a left the game
+[19May2025 02:16:28.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19May2025 02:16:48.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: The difficulty has been set to Peaceful]
+[19May2025 02:17:01.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Summoned new The Mimicer]
+[19May2025 02:17:20.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Graniter82a[/10.147.18.162:59492] logged in with entity id 7502 at (-941.033990784427, 61.0, 332.6505247542028)
+[19May2025 02:17:20.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a joined the game
+[19May2025 02:17:21.066] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (eeac426b-8722-3b1d-9788-3952b68c6b26)
+[19May2025 02:17:21.066] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Graniter82a
+[19May2025 02:17:21.067] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Graniter82a'
+[19May2025 02:17:21.067] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Graniter82a'
+[19May2025 02:17:21.068] [Server thread/INFO] [Jade/]: Syncing config to Graniter82a (eeac426b-8722-3b1d-9788-3952b68c6b26)
+[19May2025 02:17:21.674] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Graniter82a
+[19May2025 02:18:48.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Summoned new The Mimicer]
+[19May2025 02:19:02.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a lost connection: Disconnected
+[19May2025 02:19:02.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a left the game
+[19May2025 02:19:02.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: The difficulty has been set to Hard]
+[19May2025 02:19:03.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[19May2025 02:19:15.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Summoned new The Mimicer]
+[19May2025 02:19:27.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19May2025 02:19:29.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki was slain by The Mimicer
+[19May2025 02:19:29.981] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
+[19May2025 02:19:39.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Kazuruki]
+[19May2025 02:19:45.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Ender Pearl] to Kazuruki]
+[19May2025 02:19:48.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [The Most Useful Key]
+[19May2025 02:19:55.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has made the advancement [Knowledge of Death]
+[19May2025 02:19:55.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki has reached the goal [A Fast Comeback]
+[19May2025 02:20:04.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Spectator Mode]
+[19May2025 02:20:17.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Made Graniter82a a server operator]
+[19May2025 02:20:25.455] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1230, y=-43, z=520}
+[19May2025 02:20:28.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: The difficulty has been set to Peaceful]
+[19May2025 02:20:30.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set own game mode to Survival Mode]
+[19May2025 02:20:33.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Graniter82a[/10.147.18.162:59657] logged in with entity id 8367 at (-958.6852531031433, 75.0, 284.5129242588993)
+[19May2025 02:20:33.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a joined the game
+[19May2025 02:20:33.723] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (eeac426b-8722-3b1d-9788-3952b68c6b26)
+[19May2025 02:20:33.723] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Graniter82a
+[19May2025 02:20:33.724] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Graniter82a'
+[19May2025 02:20:33.724] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Graniter82a'
+[19May2025 02:20:33.725] [Server thread/INFO] [Jade/]: Syncing config to Graniter82a (eeac426b-8722-3b1d-9788-3952b68c6b26)
+[19May2025 02:20:33.979] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Graniter82a
+[19May2025 02:20:39.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Summoned new The Mimicer]
+[19May2025 02:21:01.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gamerule sendCommandFeedback is now set to: false]
+[19May2025 02:21:02.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a lost connection: Disconnected
+[19May2025 02:21:02.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a left the game
+[19May2025 02:21:30.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Summoned new The Mimicer]
+[19May2025 02:21:33.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Summoned new The Mimicer]

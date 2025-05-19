@@ -230,6 +230,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "scrubland": "2025-05-19 02:16:24 +0000",
+      "old_growth_woodland": "2025-05-19 02:11:29 +0000",
       "rainforest": "2025-05-19 01:46:29 +0000"
     },
     "done": false
@@ -302,7 +304,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:lukewarm_ocean": "2025-05-19 02:02:45 +0000"
+      "minecraft:lukewarm_ocean": "2025-05-19 02:02:45 +0000",
+      "minecraft:savanna": "2025-05-19 02:16:38 +0000"
     },
     "done": false
   },
@@ -329,6 +332,18 @@
       "has_the_recipe": "2025-05-19 01:46:27 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 02:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2025-05-19 02:16:33 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_blue": {
     "criteria": {
