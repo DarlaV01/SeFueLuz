@@ -363,7 +363,8 @@
       "minecraft:lukewarm_ocean": "2025-05-19 02:02:45 +0000",
       "minecraft:river": "2025-05-19 02:29:49 +0000",
       "minecraft:forest": "2025-05-19 02:29:58 +0000",
-      "minecraft:savanna": "2025-05-19 02:16:38 +0000"
+      "minecraft:savanna": "2025-05-19 02:16:38 +0000",
+      "minecraft:plains": "2025-05-19 03:18:00 +0000"
     },
     "done": false
   },
@@ -382,9 +383,10 @@
   "corail_recycler:recipes/recycler": {
     "criteria": {
       "requirement_2": "2025-05-19 02:30:16 +0000",
+      "requirement_3": "2025-05-19 03:15:46 +0000",
       "requirement_1": "2025-05-19 02:04:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/root": {
     "criteria": {
@@ -565,6 +567,18 @@
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-05-19 03:08:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-19 03:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-19 03:14:24 +0000"
     },
     "done": true
   },

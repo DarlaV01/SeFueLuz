@@ -4308,3 +4308,75 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [19May2025 03:16:57.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki froze to death
 [19May2025 03:16:57.914] [Server thread/INFO] [tombstone/]: The player Kazuruki has successfully been saved
 [19May2025 03:18:05.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Teleported Laboya04 to Kazuruki]
+[19May2025 03:18:21.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Gave 1 [Resonarium Axe] to Kazuruki]
+[19May2025 03:18:44.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kazuruki lost connection: Kicked by an operator
+[19May2025 03:18:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki left the game
+[19May2025 03:18:44.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Graniter82a: Kicked Kazuruki: Kicked by an operator]
+[19May2025 03:18:45.029] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19May2025 03:18:55.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a was shot by Skeleton
+[19May2025 03:18:55.368] [Server thread/INFO] [tombstone/]: The player Graniter82a has successfully been saved
+[19May2025 03:18:55.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned Graniter82a: Banned by an operator.
+[19May2025 03:18:55.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Graniter82a lost connection: You are banned from this server
+[19May2025 03:18:55.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Graniter82a left the game
+[19May2025 03:19:01.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Laboya04 lost connection: Timed out
+[19May2025 03:19:01.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laboya04 left the game
+[19May2025 03:19:01.786] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19May2025 03:19:25.785] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4cfec16a[id=eeac426b-8722-3b1d-9788-3952b68c6b26,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58371): You are banned from this server.
+Reason: Banned by an operator.
+[19May2025 03:19:25.786] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cfec16a[id=eeac426b-8722-3b1d-9788-3952b68c6b26,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58371) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[19May2025 03:19:25.835] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19May2025 03:19:44.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kazuruki[/10.147.18.228:62862] logged in with entity id 5822 at (1026.3427142593139, 108.02442408821369, 1601.062056159346)
+[19May2025 03:19:44.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kazuruki joined the game
+[19May2025 03:19:45.057] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (855544bf-53c4-314e-898b-72dc5425c191)
+[19May2025 03:19:45.057] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Kazuruki
+[19May2025 03:19:45.058] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Kazuruki'
+[19May2025 03:19:45.059] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Kazuruki'
+[19May2025 03:19:45.060] [Server thread/INFO] [Jade/]: Syncing config to Kazuruki (855544bf-53c4-314e-898b-72dc5425c191)
+[19May2025 03:19:46.138] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Kazuruki
+[19May2025 03:20:32.494] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@37c9b248[id=eeac426b-8722-3b1d-9788-3952b68c6b26,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58433): You are banned from this server.
+Reason: Banned by an operator.
+[19May2025 03:20:32.494] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37c9b248[id=eeac426b-8722-3b1d-9788-3952b68c6b26,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58433) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[19May2025 03:20:32.547] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19May2025 03:21:16.750] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@41df706e[id=eeac426b-8722-3b1d-9788-3952b68c6b26,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58470): You are banned from this server.
+Reason: Banned by an operator.
+[19May2025 03:21:16.750] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41df706e[id=eeac426b-8722-3b1d-9788-3952b68c6b26,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58470) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[19May2025 03:21:16.799] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19May2025 03:23:18.750] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3e24c39[id=eeac426b-8722-3b1d-9788-3952b68c6b26,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58573): You are banned from this server.
+Reason: Banned by an operator.
+[19May2025 03:23:18.751] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e24c39[id=eeac426b-8722-3b1d-9788-3952b68c6b26,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58573) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[19May2025 03:23:18.796] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19May2025 03:24:38.545] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3246f75a[id=eeac426b-8722-3b1d-9788-3952b68c6b26,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58669): You are banned from this server.
+Reason: Banned by an operator.
+[19May2025 03:24:38.545] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3246f75a[id=eeac426b-8722-3b1d-9788-3952b68c6b26,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58669) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[19May2025 03:24:38.595] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19May2025 03:25:54.401] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70cf15b4[id=<null>,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58708) lost connection: Disconnected
+[19May2025 03:26:06.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Laboya04[/10.147.18.62:52253] logged in with entity id 6923 at (1114.597655824586, 109.0, 1665.958739316508)
+[19May2025 03:26:06.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laboya04 joined the game
+[19May2025 03:26:06.811] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (cc37e8a0-bc67-3b95-b8f3-5f5fe53635a8)
+[19May2025 03:26:06.811] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Laboya04
+[19May2025 03:26:06.812] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Laboya04'
+[19May2025 03:26:06.813] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Laboya04'
+[19May2025 03:26:06.813] [Server thread/INFO] [Jade/]: Syncing config to Laboya04 (cc37e8a0-bc67-3b95-b8f3-5f5fe53635a8)
+[19May2025 03:26:08.096] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[19May2025 03:26:08.096] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[19May2025 03:26:08.119] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[19May2025 03:26:10.570] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Laboya04
+[19May2025 03:26:12.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laboya04 was slain by Harpy
+[19May2025 03:26:12.269] [Server thread/INFO] [tombstone/]: The player Laboya04 has successfully been saved
+[19May2025 03:27:02.052] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52e7dd45[id=<null>,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58761) lost connection: Disconnected
+[19May2025 03:27:03.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kazuruki: Set the time to 1000]
+[19May2025 03:27:34.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laboya04 has reached the goal [Chain Death]
+[19May2025 03:27:34.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laboya04 was slain by Zombie
+[19May2025 03:27:34.820] [Server thread/INFO] [tombstone/]: The player Laboya04 has successfully been saved
+[19May2025 03:27:40.151] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@514fa8b4[id=eeac426b-8722-3b1d-9788-3952b68c6b26,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58847): You are banned from this server.
+Reason: Banned by an operator.
+[19May2025 03:27:40.151] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@514fa8b4[id=eeac426b-8722-3b1d-9788-3952b68c6b26,name=Graniter82a,properties={},legacy=false] (/10.147.18.162:58847) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[19May2025 03:27:40.211] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19May2025 03:27:50.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laboya04 has made the advancement [Knowledge of Death]
+[19May2025 03:27:50.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Laboya04 has reached the goal [Here They Come]
