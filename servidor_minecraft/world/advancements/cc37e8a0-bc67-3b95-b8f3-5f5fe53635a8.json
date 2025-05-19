@@ -338,9 +338,10 @@
   },
   "corail_recycler:recipes/steel_disk": {
     "criteria": {
-      "requirement_2": "2025-05-19 02:35:49 +0000"
+      "requirement_2": "2025-05-19 02:35:49 +0000",
+      "requirement_1": "2025-05-19 02:42:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "lootr:social": {
     "criteria": {
@@ -361,11 +362,29 @@
     },
     "done": false
   },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-05-19 02:44:24 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:recipes/diamond_disk": {
     "criteria": {
       "requirement_2": "2025-05-19 02:35:49 +0000"
     },
     "done": false
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-19 02:41:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 02:41:06 +0000"
+    },
+    "done": true
   },
   "lootr:10loot": {
     "criteria": {
@@ -379,9 +398,16 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-05-19 02:43:11 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:recipes/recycler": {
     "criteria": {
-      "requirement_2": "2025-05-19 02:35:49 +0000"
+      "requirement_2": "2025-05-19 02:35:49 +0000",
+      "requirement_1": "2025-05-19 02:44:18 +0000"
     },
     "done": false
   },

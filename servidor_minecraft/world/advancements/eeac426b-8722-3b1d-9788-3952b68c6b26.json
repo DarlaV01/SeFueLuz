@@ -405,6 +405,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-05-19 02:47:12 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/material_master": {
     "criteria": {
       "rock": "2025-05-19 02:31:43 +0000",
@@ -502,6 +508,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "porkchop": "2025-05-19 02:42:05 +0000",
+      "cooked_cod": "2025-05-19 02:44:19 +0000",
       "melon_slice": "2025-05-19 02:32:23 +0000"
     },
     "done": false
