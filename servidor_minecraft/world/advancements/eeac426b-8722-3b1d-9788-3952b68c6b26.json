@@ -574,6 +574,7 @@
       "minecraft:spider": "2025-05-19 03:48:19 +0000",
       "minecraft:creeper": "2025-05-19 03:45:08 +0000",
       "minecraft:cave_spider": "2025-05-26 03:20:10 +0000",
+      "minecraft:stray": "2025-05-26 03:27:23 +0000",
       "minecraft:zombie": "2025-05-19 03:54:51 +0000",
       "minecraft:zombie_villager": "2025-05-19 04:10:12 +0000"
     },
@@ -714,9 +715,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-26 03:27:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "cranberry_seed": "2025-05-26 03:23:21 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-05-26 03:07:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-05-26 03:23:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "cranberry_seed": "2025-05-26 03:23:21 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-05-26 03:25:37 +0000"
     },
     "done": true
   },

@@ -573,6 +573,19 @@
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "sea_lettuce": "2025-05-26 03:22:45 +0000",
+      "anchovy": "2025-05-26 03:25:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-05-26 03:23:00 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-26 02:58:06 +0000"
