@@ -412,6 +412,7 @@
     "criteria": {
       "apple": "2025-05-19 04:02:24 +0000",
       "pumpkin_pie": "2025-05-19 03:47:18 +0000",
+      "bread": "2025-05-26 03:09:06 +0000",
       "melon_slice": "2025-05-19 02:16:33 +0000",
       "carrot": "2025-05-19 04:00:31 +0000"
     },
@@ -602,6 +603,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-19 03:51:17 +0000",
+      "minecraft:spider": "2025-05-26 03:07:33 +0000",
+      "minecraft:creeper": "2025-05-26 03:05:27 +0000",
       "minecraft:enderman": "2025-05-19 03:54:17 +0000",
       "minecraft:zombie": "2025-05-19 03:52:39 +0000"
     },
@@ -702,6 +705,24 @@
       "blue": "2025-05-19 04:14:54 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-05-26 03:06:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-26 03:05:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-26 03:04:19 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

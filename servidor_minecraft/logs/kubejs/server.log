@@ -1,29 +1,28 @@
-[03:30:41] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[03:30:41] [INIT] Loaded plugins:
-[03:30:41] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[03:30:41] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
-[03:30:41] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[03:30:41] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[03:30:41] [INFO] Loaded script server_scripts:example.js in 0.004 s
-[03:30:41] [INFO] Loaded script addonpack_palladiumextras:kubejs_scripts/titanium.js in 0.001 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.001 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.002 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.032 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.018 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.003 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.01 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.0 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nbt_omnitrix.js in 0.0 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.005 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.002 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/flammable_block.js in 0.0 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.003 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.004 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
-[03:30:41] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/alien_death.js in 0.0 s
-[03:30:41] [INFO] Loaded 17/17 KubeJS server scripts in 0.13 s with 0 errors and 0 warnings
-[03:30:41] [INFO] Scripts loaded
-[03:30:45] [INFO] [minecraft:block] Found 933 tags, added 12 objects, removed 0 objects
-[03:30:45] [INFO] [minecraft:item] Found 2386 tags, added 4 objects, removed 0 objects
-[03:31:06] [INFO] Server resource reload complete!
-[03:48:12] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 1302,65,1834,minecraft:overworld as filled
+[02:42:49] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[02:42:49] [INIT] Loaded plugins:
+[02:42:49] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[02:42:49] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[02:42:49] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[02:42:49] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[02:42:49] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[02:42:49] [INFO] Loaded script addonpack_palladiumextras:kubejs_scripts/titanium.js in 0.001 s
+[02:42:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.002 s
+[02:42:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.002 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.027 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.006 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.003 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.006 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.0 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nbt_omnitrix.js in 0.0 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.001 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.001 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/flammable_block.js in 0.0 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.001 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.001 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
+[02:42:50] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/alien_death.js in 0.0 s
+[02:42:50] [INFO] Loaded 17/17 KubeJS server scripts in 0.085 s with 0 errors and 0 warnings
+[02:42:50] [INFO] Scripts loaded
+[02:42:53] [INFO] [minecraft:block] Found 933 tags, added 12 objects, removed 0 objects
+[02:42:53] [INFO] [minecraft:item] Found 2386 tags, added 4 objects, removed 0 objects
+[02:45:49] [INFO] Server resource reload complete!
